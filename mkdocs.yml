@@ -1,4 +1,4 @@
-site_name: Mis Apuntes del Máster
+site_name: Apuntes MCR
 nav:
   - Inicio: index.md
   - Introducción: intro/index.md
