@@ -1,8 +1,3 @@
----
-layout: default
-title: judaísmo
----
-
 [**Guia** de revisão do contexto histórico](./apuntes/jdmo_repaso.md).
 
 ## Tema 1: A religião do antigo Israel

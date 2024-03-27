@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+# Fundamentos
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### [Introdução à história das religiões](/intro/index.md)
 
-## Commands
+### [Leituras fundamentais](/lecturas/index.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+# Aspectos gerais e teoria
 
-## Project layout
+### [Poder, sociedades e religiões](/poder/index.md)
+### [Teoria e metodologia do estudo das religiões](/teoria/index.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Religiões monoteístas
+
+### [A Bíblia judaica e a Bíblia cristã](/biblia/index.md)
+### [História do cristianismo](/cristianismo/index.md)
+### [História do islam](/islam/index.md)
+### [História do judaísmo](/judaismo/index.md)
+
+# Religiões politeístas e novas
+
+### [O universo religioso americano e o fenômeno das _New Religions_](/americanas/index.md)
+### [Religiões orientais](/orientales/index.md)
+### [O politeísmo mediterrâneo](/politeismo/index.md)
+
+---
+
+© 2023 | @a.morón

@@ -11,9 +11,15 @@ nav:
     - Apuntes: cristianismo/apuntes/
     - Materiales: cristianismo/materiales/
   - Judaísmo:
-    - Inicio: judaismo/index.md
-    - Apuntes: judaismo/apuntes/
-    - Materiales: judaismo/materiales/
+    - Intro: judaismo
+    - Judaísmo antiguo: judaismo/apuntes/t1
+    - Judaísmo helenístico: 
+        - Inicio: judaismo/apuntes/t2/index.md
+        - Helenismo, hasidismo y Qumrán: judaismo/apuntes/t2/jdmo_t2-1.md
+        - Romanización y judeocristianismo: judaismo/apuntes/t2/jdmo_t2-2.md
+        - Rabinismo, Tanaj y Talmud: judaismo/apuntes/t2/jdmo_t2-3.md
+    - Judaísmo medieval: judaismo/apuntes/t3
+    - Judaísmo moderno: judaismo/apuntes/t4
   - Islam:
     - Inicio: islam/index.md
     - Apuntes: islam/apuntes/
@@ -22,5 +28,17 @@ nav:
     - Inicio: americanas/index.md
     - Apuntes: americanas/apuntes/
     - Materiales: americanas/materiales/
-  # Agrega más secciones según tus necesidades
-theme: mkdocs
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'    
+  font:
+    text: 'Roboto'
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/moronbandin
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/moronbandin
