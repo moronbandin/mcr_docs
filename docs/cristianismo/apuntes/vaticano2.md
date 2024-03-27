@@ -1,18 +1,4 @@
----
-layout: default
-title: vaticano ii
----
-
 # Concílio Vaticano II: A Revolução na Igreja Católica
-
-### Índice Geral
-
-- [Concílio Vaticano II: A Revolução na Igreja Católica](#concílio-vaticano-ii-a-revolução-na-igreja-católica)
-  - [Papa João XXIII: O Precursor da Mudança](#papa-joão-xxiii-o-precursor-da-mudança)
-  - [O Concílio Vaticano II: O Aggiornamento de João XXIII](#o-concílio-vaticano-ii-o-aggiornamento-de-joão-xxiii)
-  - [A Transição para o Papado de Paulo VI](#a-transição-para-o-papado-de-paulo-vi)
-  - [A Crise Pós-Concílio Vaticano II](#a-crise-pós-concílio-vaticano-ii)
-  - [O Cisma Soterrado: Divisões e Desafios na Igreja Pós-Aggiornamento](#o-cisma-soterrado-divisões-e-desafios-na-igreja-pós-aggiornamento)
 
 ## Papa João XXIII: O Precursor da Mudança
 
@@ -246,10 +232,4 @@ Em resumo, o período após o Concílio Vaticano II é complexo e marcado por te
 
 Esses desafios destacam as complexidades e tensões dentro da Igreja Católica após o Concílio Vaticano II. Enquanto o Concílio representou um momento de abertura e modernização, os anos subsequentes mostraram uma Igreja dividida e em muitos aspectos, relutante em adaptar-se plenamente aos novos tempos.
 
-mais info na [presentaçao](../materiales/presentacion.pdf)
-
-
----
-
-<div style="display: flex; align-items: center; float: left;">
-<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/r_monastica.html">&#8592; Reforma monástica</a></div>
+Mais info na [presentação](../materiales/presentacion.pdf)

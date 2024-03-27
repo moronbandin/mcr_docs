@@ -7,17 +7,20 @@ nav:
     - Apuntes: biblia/apuntes/blia.md
     - Materiales: biblia/materiales/
   - Cristianismo: 
-    - Inicio: cristianismo/index.md
-    - Apuntes: cristianismo/apuntes/
-    - Materiales: cristianismo/materiales/
+    - Los orígenes del cristianismo: cristianismo/apuntes/t1.md
+    - El cristianismo en los siglos II y III: cristianismo/apuntes/t2.md
+    - El cristianismo de Estado: cristianismo/apuntes/t3.md
+    - Controversias y herejías: cristianismo/apuntes/t4.md
+    - La nueva sociedad cristiana: cristianismo/apuntes/t5.md
+    - Concilio Vaticano II: cristianismo/apuntes/vaticano2.md
   - Judaísmo:
-    - Intro: judaismo
+    - Intro: judaismo/intro.md
     - Judaísmo antiguo: judaismo/apuntes/t1
     - Judaísmo helenístico: 
         - Inicio: judaismo/apuntes/t2/index.md
-        - Helenismo, hasidismo y Qumrán: judaismo/apuntes/t2/jdmo_t2-1.md
-        - Romanización y judeocristianismo: judaismo/apuntes/t2/jdmo_t2-2.md
-        - Rabinismo, Tanaj y Talmud: judaismo/apuntes/t2/jdmo_t2-3.md
+        - Helenismo, hasidismo y Qumrán: judaismo/apuntes/t2/t2_1.md
+        - Romanización y judeocristianismo: judaismo/apuntes/t2/t2_2.md
+        - Rabinismo, Tanaj y Talmud: judaismo/apuntes/t2/t2_3.md
     - Judaísmo medieval: judaismo/apuntes/t3
     - Judaísmo moderno: judaismo/apuntes/t4
   - Islam:
