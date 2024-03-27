@@ -1,0 +1,26 @@
+site_name: Mis Apuntes del Máster
+nav:
+  - Inicio: index.md
+  - Introducción: intro/index.md
+  - Biblia: 
+    - Inicio: biblia/index.md
+    - Apuntes: biblia/apuntes/blia.md
+    - Materiales: biblia/materiales/
+  - Cristianismo: 
+    - Inicio: cristianismo/index.md
+    - Apuntes: cristianismo/apuntes/
+    - Materiales: cristianismo/materiales/
+  - Judaísmo:
+    - Inicio: judaismo/index.md
+    - Apuntes: judaismo/apuntes/
+    - Materiales: judaismo/materiales/
+  - Islam:
+    - Inicio: islam/index.md
+    - Apuntes: islam/apuntes/
+    - Materiales: islam/materiales/
+  - Americanas:
+    - Inicio: americanas/index.md
+    - Apuntes: americanas/apuntes/
+    - Materiales: americanas/materiales/
+  # Agrega más secciones según tus necesidades
+theme: mkdocs
