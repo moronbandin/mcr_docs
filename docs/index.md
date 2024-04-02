@@ -1,24 +1,31 @@
-### [Introdução à história das religiões](judaismo)
+# Índice de contenidos 📚
 
-### [Leituras fundamentais](lecturas)
+## Introducción 🌟
 
-### [Poder, sociedades e religiões](poder)
+- [Introducción a la historia de las religiones](intro/index.md) 📜
+- [Lecturas fundamentales](lecturas/index.md) 📖
+- [Poder, sociedades y religiones](poder/index.md) ⚖️
+- [Teoría y metodología del estudio de las religiones](teoria/index.md) 🧠
 
-### [Teoria e metodologia do estudo das religiões](teoria)
+## Historia dos monoteísmos 🕊️
 
-### [A Bíblia judaica e a Bíblia cristã](/biblia/index.md)
+- [La biblia judía y la biblia cristiana](/biblia/index.md) ✝️✡️
+- [Historia del cristianismo](cristianismo/index.md) ✝️
+- [Historia del islam](islam/index.md) ☪️
+- [Historia del judaísmo](judaismo/intro.md) ✡️
+- Monoteísmos en el siglo XXI (to-do) 🔄
 
-### [História do cristianismo](cristianismo)
+## Religiones americanas 🌎
 
-### [História do islam](islam)
+- [El universo religioso americano y el fenómeno de las _New Religions_](americanas/index.md)
 
-### [História do judaísmo](judaismo)
+## Religiones orientales 🎎
 
-### [O universo religioso americano e o fenômeno das _New Religions_](americanas)
+- [Religiones orientales](orientales/index.md) 🧘
 
-### [Religiões orientais](orientales)
+## Estudios sobre el politeísmo 🏛️
 
-### [O politeísmo mediterrâneo](politeismo)
+- [El politeísmo mediterráneo](politeismo/index.md) 🌊
 
 ---
 

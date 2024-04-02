@@ -1,19 +1,32 @@
-[**Guia** de revisão do contexto histórico](./apuntes/jdmo_repaso.md).
+# Índice de contenidos
 
-## [Tema 1: A religião do antigo Israel](apuntes/t1/index.md)
+### Recursos Iniciales
 
-Lorem ipsum
+- [**Guía** de revisión del contexto histórico](./apuntes/jdmo_repaso.md)  
+  Una introducción a los contextos históricos relevantes.
 
-## [Tema 2: Do helenismo ao Talmude](apuntes/t2/index.md)
+### Temas
 
-Lorem ipsum
+#### [Tema 1: La religión del antiguo Israel](apuntes/t1/index.md)
+  
+  Raíces y evolución de la religión en el antiguo Israel, desde sus inicios hasta la romanización.
 
-## [Tema 3: Judaísmo medieval](apuntes/t3/index.md)
+#### [Tema 2: Do helenismo ao Talmude](apuntes/t2/index.md)
 
-Lorem ipsum
+  Un estudio del impacto del helenismo en el judaísmo y la posterior consolidación de la ley judía en el Talmud.
 
-## [Tema 4: Judaísmo da Idade Moderna](apuntes/t4/index.md)
+#### [Tema 3: Judaísmo medieval](apuntes/t3/index.md)  
 
-Lorem ipsum
+  Desarrollo del judaísmo durante la Edad Media, incluyendo las comunidades judías bajo el islam y el cristianismo.
 
-## Tema 5: Judaísmo contemporâneo
+#### [Tema 4: Judaísmo da Idade Moderna](apuntes/t4/index.md)
+
+  Judaísmo en el período moderno, cubriendo los cambios y desafíos desde la Ilustración hasta el siglo XIX.
+
+#### [Tema 5: Judaísmo contemporâneo](apuntes/t5/index.md)
+
+  Judaísmo en los siglos XX y XXI.
+
+---
+
+Cada tema incluirá lecturas, recursos multimedia y actividades diseñadas para proporcionar una comprensión profunda de la rica historia y tradición del judaísmo. Mantente atento

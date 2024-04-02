@@ -1,8 +1,3 @@
----
-layout: default
-title: Repaso de la Historia Antigua
----
-
 ## Línea de Tiempo de Eventos Significativos
 
 ### Siglos XII-X a.C.
@@ -24,9 +19,3 @@ title: Repaso de la Historia Antigua
 
 ### 63 a.C.-70 d.C.
 - **Época Romana Inicial**: El territorio se convierte en la provincia romana de Siria, con una estructura de gobierno republicano. Herodes establece una monarquía y en el año 70 d.C. se produce la destrucción del Segundo Templo.
-
-<div style="margin-top: 20px;">
-  <a href="../" title="Volver a la página anterior" style="text-decoration: none; color: #000;">
-    <i class="fas fa-arrow-left"></i> Volver
-  </a>
-</div>

@@ -6,7 +6,7 @@
 
 Es una continuación de lo que ya habíamos visto en el XVIII, con las dos grandes corrientes ortodoxia-haskalá (jaredíes vs reformados).
 
-En las etapas anteriores habíamos visto el antijudaísmo romano, el antijudaísmo medieval. El concepto de antisemitismo se puede aplicar únicamente a partir de ahora. Antes se rechazaba a un grupo religioso. El antisemitismo es un rechazo racista (no a un grupo racial, porque los judíos eran de diversos orígenes raciales, sino de índole ideológicamente racista). 
+En las etapas anteriores habíamos visto el antijudaísmo romano, el antijudaísmo medieval. El concepto de antisemitismo se puede aplicar únicamente a partir de ahora. Antes se rechazaba a un grupo religioso. El antisemitismo es un rechazo racista (no a un grupo racial, porque los judíos eran de diversos orígenes raciales, sino de índole ideológicamente racista).
 
 ### La Emancipación en Estados Unidos
 
