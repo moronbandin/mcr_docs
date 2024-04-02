@@ -1,11 +1,4 @@
----
-layout: default
-title: americanas
----
-
-## Apuntes
-
-- [Universo religioso americano](apuntes/amcas.md)
+## [Apuntes](apuntes/amcas.md)
 
 ## Materiales
 
@@ -26,7 +19,3 @@ title: americanas
 - [Texto corto Frigerio](materiales/frigeriocorto.pdf)
 
 - [Primer análisis: el testimonio de conversión](materiales/guatemala.pdf)
----
-<div style="display: flex; align-items: center; float: left;">
-<a href="../">&#8592; volver a materias</a>
-</div>

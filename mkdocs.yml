@@ -7,6 +7,7 @@ nav:
     - Apuntes: biblia/apuntes/blia.md
     - Materiales: biblia/materiales/
   - Cristianismo: 
+    - Intro: cristianismo/index.md
     - Los orígenes del cristianismo: cristianismo/apuntes/t1.md
     - El cristianismo en los siglos II y III: cristianismo/apuntes/t2.md
     - El cristianismo de Estado: cristianismo/apuntes/t3.md
@@ -29,8 +30,8 @@ nav:
     - Apuntes: islam/apuntes/
     - Materiales: islam/materiales/
   - Americanas:
-    - Inicio: americanas/index.md
-    - Apuntes: americanas/apuntes/
+    - Intro: americanas/index.md
+    - Apuntes: americanas/apuntes/amcas.md
     - Materiales: americanas/materiales/
 theme:
   name: 'material'

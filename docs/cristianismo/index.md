@@ -1,8 +1,3 @@
----
-layout: default
-title: cristianismo
----
-
 ## Apuntes
 
 - [**Los orígenes del cristianismo**](apuntes/crmo_t1)
@@ -16,6 +11,7 @@ title: cristianismo
 ## Índice de Materiales
 
 ### ✝️ Historia del Cristianismo
+
 - [📄 Apologetas y heresiólogos](materiales/apologetas.pdf)
 - [📄 Canon del Nuevo Testamento](materiales/canonNT.docx)
 - [📄 Constantino - Carles Buenacasa](materiales/constantinus.pdf)
@@ -27,6 +23,7 @@ title: cristianismo
 - [📄 El cristianismo primitivo - Ramón Teja](materiales/crmoprimitivo.pdf) (lectura @m.marcos)
 
 ### 📚 Teología y Doctrina
+
 - [📄 ¿Cristianismo o cristianismos?](materiales/crmoocrmos.pdf)
 - [📄 Cristianismo grecorromano](materiales/crmogrecorromano.pdf)
 - [📄 Cristianismos derrotados](materiales/crmosderrotados.pdf)
@@ -35,6 +32,7 @@ title: cristianismo
 - [📄 Tradición y novedad en las leyes contra la magia y el paganismo de los emperadores cristianos](materiales/leyespaganismo.pdf)
   
 ### 📜 Evangelios y Textos Sagrados
+
 - [📚 Todos los Evangelios - Antonio Piñero](/materiales/todoslosevangelios_ap.pdf)
 - [📄 Evangelios apócrifos - Piñero](materiales/evapocrifospiñero.pdf)
 - [📄 Evangelios Apócrifos](materiales/evapocrifos.pdf)
@@ -42,22 +40,23 @@ title: cristianismo
 - [📄 Textos Jesús Histórico](materiales/textosjesus.doc)
 
 ### 👼 Figuras Religiosas
+
 - [📄 Jesús de Nazaret: profeta y más que profeta (Jesús-María-Pablo)](materiales/jesusmariapablo.pdf)
 - [🌐 Jesús histórico](https://www.jotdown.es/2018/11/jesus-de-nazaret-i-el-jesus-historico/)
 - [📄 J. Torres y el culto a los mártires](materiales/cultomartires.pdf)
 
 ### 🙏 Prácticas y Rituales
+
 - [📄 La ocupación de espacios sagrados](materiales/ocupacion.pdf) - Juana Torres 
 - [📄 La religiosidad bajomedieval](materiales/relibajomedieval.pdf)
 - [📄 El monacato medieval: Santos viajeros y patronos regios](materiales/monacatomedieval.pdf)
 
 ### 🌐 Temas Contemporáneos
+
 - [📄 Siglo XXI: rabinas, sacerdotas, obispas y ayatolás](materiales/sacerdotas.pdf)
 
 ### 📖 Recursos Adicionales
+
 - [🖼️ Mapas cristianismo](materiales/mapas.ppt)
 
 ---
-<div style="display: flex; align-items: center; float: left;">
-<a href="../">&#8592; Volver</a>
-</div>
