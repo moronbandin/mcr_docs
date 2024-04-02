@@ -26,7 +26,3 @@
 #### [Tema 5: Judaísmo contemporâneo](apuntes/t5/index.md)
 
   Judaísmo en los siglos XX y XXI.
-
----
-
-Cada tema incluirá lecturas, recursos multimedia y actividades diseñadas para proporcionar una comprensión profunda de la rica historia y tradición del judaísmo. Mantente atento
