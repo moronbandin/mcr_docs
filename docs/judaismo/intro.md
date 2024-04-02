@@ -17,8 +17,3 @@ Lorem ipsum
 Lorem ipsum
 
 ## Tema 5: Judaísmo contemporâneo
-
----
-<div style="display: flex; align-items: center; float: left;">
-<a href="../">&#8592; Matérias</a>
-</div>
