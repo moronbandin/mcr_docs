@@ -187,23 +187,106 @@ Esta diversidad dentro de la ortodoxia judía refleja la complejidad y riqueza d
 
 ## Ortodoxia y fundamentalismo
 
-La ortodoxia se va expandiendo con la migración de judíos del este de Europa a EEU y en 1898 se funda la Union of Orthodox Jewish Congregations de Estados Unidos, una congregación de ortodoxos (hasidíes, yeshivíes y neo-ortodoxos).
+La expansión de la ortodoxia judía en Estados Unidos a finales del siglo XIX y principios del XX se marcó con la fundación de la Union of Orthodox Jewish Congregations en 1898, que agrupaba a diversas corrientes ortodoxas, incluidos hasidíes, yeshivíes y neo-ortodoxos. Este fenómeno no solo reflejó la diversidad y riqueza del judaísmo ortodoxo sino también el inicio de un periodo de resistencia a los cambios impulsados por la modernidad y la emancipación judía.
 
-Fundamentalismo: afecta a todas las religiones.
-La palabra surge en estados unidos. En *Biblia* vimos como en los años 20 surgía en Estados Unidos el fundamentalismo como concepto de "los fundamentos que no se pueden tocar dentro de la religión evangélica". Podemos aplicarlo al catolicismo, que el término que se usaba en españa era "integrismo". Surgirá lo mismo en islam, hinduísmo, etc. Todos los fundamentalismos tienen rasgos comunes, uno de ellos, el de las mujeres. El fundamentalismo es ultratradicionalista.
+**Fundamentalismo: un fenómeno transversal**
 
-conservadurismo de género
-La ortodoxia judía (término no usado por los cristianos, porque en su mundo los ortodoxos son los griegos y orientales) es sinónimo de los fundamentalismos. En el tema de las mujeres todos los tradicionalismos se resisten a cualquier cambio. Un rasgo fundamental es la resistencia al cambio. Esta resistencia se enfrenta con cualquier evolución en la situación de igualdad de las mujeres, que se estaba dando yaddesde el XVIII en las mujeres judías reformistas pero también el cristianas europeas que iban a la escuela a partir del XIX, aquí en españa partir del sexenio democrático también, auynque luego hubiera un parón, etc.
-nada de igualdad a las mujeres: la biblia es clara. Si la mujer no tiene que mostrar el pelo, los judíos llegan al radicalismo (una innovación decimonónica, no se producía en el judaísmo antiguo ni medieval ni moderno), ver rapadas a las mujeres y ponerse pelucas en lugar de velos: muestra de mujer más pura, más austera...
+El término "fundamentalismo" nació en Estados Unidos durante los años 20, referido inicialmente a un movimiento dentro del protestantismo evangélico que enfatizaba la [inerrancia de la Biblia](https://es.wikipedia.org/wiki/Inerrancia_b%C3%ADblica) y la adhesión a ciertos principios doctrinales considerados fundamentales. Podemos aplicarlo al catolicismo, que el término que usaba en España era *integrismo*. Surgirá lo mismo en islam, hinduísmo, etc. Todos los fundamentalismos tienen rasgos comunes, uno de ellos, el de las mujeres. El fundamentalismo es ultratradicionalista. El concepto se ha extendido a otras religiones, incluyendo el judaísmo, donde se asocia con un ultraconservadurismo que rechaza interpretaciones modernas o racionalistas de los textos sagrados.Características:
 
-no solamente con las mujeres, sino también con los homosexuales: rasgo fundamentalista tanto judío como cristiano islámico etc. Hoy día es un distintivo clave: ha habido atentados de judíos fundamentalistas contra gente en el día del orgullo.
+**Conservadurismo de género**
 
-literalismo antirracionalista en la crítica textual: Los judíos de la haskalá, alemanes del XVIII, XIX, aplican una crítica a los textos bíblicos similar a la que habían aplicado los luteranos u otros de confesiones norteamericanas, racionalistas, en su contexto histórico, etc. Los fundamentalistas se niegan a esto: así surge el fundamentalismo: como oposición a la interpretación racionalista.
+La ortodoxia judía (término no usado por los cristianos, porque en su mundo los ortodoxos son los griegos y orientales) es sinónimo de los **fundamentalismos**. En el tema de las mujeres todos los tradicionalismos se resisten a cualquier cambio. Esta resistencia al cambio se enfrenta con cualquier evolución en la situación de igualdad de las mujeres, que se estaba fraguando ya ddesde el XVIII en las mujeres judías reformistas pero también el cristianas europeas que iban a la escuela a partir del XIX (en España partir del sexenio democrático también, aunque luego hubiera un parón).
 
-Como los evangélicos norteamericanos fundamentalistas que dicen "Los milagros hay que creérselos tal como vienen", y otros muchos aspectos, María, etc.
+Nada de igualdad a las mujeres: la biblia es clara. La mujer no tiene que mostrar el pelo, los judíos llegan al radicalismo de (una innovación decimonónica que no se había producido ni en el judaísmo antiguo ni en el medieval ni el moderno) ver rapadas a las mujeres, usando pelucas en lugar de velos como muestra de pureza y austeridad.
 
-Pues lo mismo los judíos fundamentalistas, nada de interpretación del paso del mar muerto en clave racionalistas o cualquier período histórico del génesis como creación literaria posterior a los hechos. Ellos dicen que eso lo escribió moisés y no se puede admitir otra explicación (y Moisés, según ellos, vivió entre el 1200 1400 a.n.e).
+También con los **homosexuales**: un rasgo fundamentalista tanto judío como cristiano islámico etc. Hoy día es un distintivo clave: ha habido atentados de judíos fundamentalistas contra personas queer en el día del orgullo.
 
-, , de vestimenta y de costumbres, tendencia al aislamiento, desconfianza de la ciencia y el progreso.
+**Literalismo antirracionalista en la crítica textual**
 
-{00:54:49}
+Los judíos de la haskalá, alemanes del XVIII-XIX, aplican una crítica a los textos bíblicos similar a la que habían aplicado los luteranos u otros de confesiones norteamericanas, racionalistas, contextualizando históricamente las obras, etc. Los fundamentalistas se niegan a la interpretación racionalista.
+
+Como los evangélicos norteamericanos fundamentalistas que dicen "*Los milagros hay que creérselos tal como vienen*", y otros muchos aspectos, María, etc.
+
+Pues lo mismo los judíos fundamentalistas. Nada de interpretaciones del paso del Mar Muerto en clave racionalista o cualquier período histórico del Génesis como creación literaria posterior a los hechos. Ellos dicen que eso lo escribió Moisés y no se puede admitir otra explicación (y Moisés, según ellos, vivió entre el 1200 1400 a.n.e). 
+
+**Vestimenta y costumbres**
+
+Las prácticas de vestimenta y alimentación entre los judíos ortodoxos son rigurosas, incluyendo el uso de indumentaria tradicional y la observancia estricta de las leyes kósher. Estas prácticas refuerzan la identidad comunitaria y marcan un límite claro con la sociedad en general.
+
+Gorros estos de pelo de origen lituano.
+
+**Tendencia al aislamiento**
+
+Una tendencia al aislamiento caracteriza a algunas comunidades ortodoxas, que prefieren mantenerse distantes incluso de otros grupos judíos más reformistas. Esta postura se extiende a una desconfianza hacia la ciencia y el progreso, viendo con recelo determinadas teorías científicas y el uso arcaico de la tecnología. Aunque esta actitud no es universal dentro del judaísmo ortodoxo (es más radical en los amish), sí es prominente en sus sectores más tradicionalistas.
+
+Los judíos ortodoxos suelen ser los más pobres, tanto en EE.UU./NYC como en Israel.
+
+## El antisemitismo en Europa Oriental
+
+El antisemitismo en Europa Oriental representa un capítulo oscuro y complejo en la historia del antisemitismo global, distinguiéndose por su intensidad y las devastadoras consecuencias para las comunidades judías de la región. A diferencia del caso alemán, donde el antisemitismo alcanzó su punto más extremo durante el régimen nazi, en Europa Oriental este fenómeno tiene raíces más antiguas y se manifiesta a través de una serie de pogromos y leyes discriminatorias a lo largo de los siglos XIX y XX.
+
+Odessa, ciudad fundada bajo la égida de Catalina la Grande y José de Ribas, se convirtió en escenario de numerosos pogromos contra la comunidad judía establecida desde tiempos anteriores a la llegada masiva de rusos y ucranianos a la región. Estos ataques violentos, perpetrados por pobladores griegos, rusos, ucranianos y con la complicidad de la Ojrana, la policía secreta zarista, se caracterizaron por matanzas, violaciones e incendios, siendo los más notorios los ocurridos en los años 1821, 1859, 1871, 1881, 1886 y 1905.
+
+Para colmo, el asesinato del zar Alejandro II en 1881 por un revolucionario lituano desencadenó una oleada de violencia antisemita, culpando injustamente a los judíos de la tragedia. Los pogromos de 1881-1882 resultaron en la muerte de numerosos judíos en Rusia y Polonia, marcando un periodo de intensificación del antisemitismo en el Imperio Ruso.
+
+Bajo el reinado de Alejandro III, se promulgaron leyes específicamente diseñadas para reprimir y limitar la vida de los judíos en Rusia, contrastando con los avances hacia la emancipación judía en otros países europeos. Estas leyes incluían:
+
+- Destierro rural
+- Cuotas en educación: No se permitía que en un colegio hubiera más de x número de judíos. Se prefiere que haya mínima participación para que se asimilen más rápidamente.
+- Restricciones profesionales para evitar el control judío en ciertas áreas.
+- Límites políticos.
+- Reclutamiento obligatorio de judíos para el ejército ruso. Esto significa que esos niños reclutados, que se pasan años en el ejército, son arrancados de sus aldeas/barrios judíos e integrados en una compañía donde por supuesto no se respetan sus normas de rituales, alimentarias, sufren malos tratos por su circuncisión, etc. Muchos morían. Para los judíos de la rusia de finales del XIX, la militarización va a ser el peor de los males. De hecho, muchos huyen. Es el caso de la familia de Simon Schama.
+
+**Centurias Negras**
+
+La dura realidad de la vida judía en la Rusia de finales del siglo XIX y principios del XX dio lugar a la formación de las **Centurias Negras** alrededor del año 1900. Estos grupos paramilitares, caracterizados por su uniforme negro y su feroz antisemitismo, perpetraron actos de violencia contra los judíos en Ucrania y la Polonia rusa, con el apoyo del zar y la policía zarista.
+
+> El antisemitismo en Europa Oriental, por lo tanto, no solo se manifestó a través de actos violentos individuales sino también mediante una estructura de opresión institucionalizada, marcando profundamente la experiencia y la memoria histórica de las comunidades judías de la región.
+
+## El antisemitismo en Europa Occidental
+
+En E. Occidental, el antisemitismo se origina en Francia. Alemania, Prusia, tardó mucho en decretar la igualdad jurídica de los judíos, hasta 1869, año antes de culminarse la unificación alemana.
+
+Sin embargo eso no significa que la situación mejorara mucho en Alemania, pero no había en la primera mitad del XIX un antisemitismo fuerte. Prusia era un estado muy arcaico, conservador, monárquico, y tras la unificación también hay ciertos rasgos autocráticos, a pesar de que existe sufragio universal etc.
+
+Francia, cuna del antisemitismo moderno, vinculó parte de su odio antijudío a la figura de la familia Rothschild, banqueros de renombre que, aunque eran contrarios a la Tercera República y apoyaban a Napoleón III, negociaron las condiciones de rendición de Francia en la guerra franco-prusiana. Esta guerra no solo resultó en la unificación de Alemania bajo Prusia sino también en la anexión de Alsacia y Lorena, regiones con una significativa población judía askenazí. Los Rothschild, al financiar las deudas de guerra francesas, fueron vistos por algunos sectores franceses como intrusos deseosos de controlar las finanzas del país, alimentando el creciente antisemitismo.
+
+La publicación en 1872 del *Ensayo sobre la desigualdad de las razas* por el conde Joseph Gobineau marcó un hito en el desarrollo del antisemitismo europeo. Gobineau argumentaba, bajo un manto de cientificismo racial, la existencia de razas superiores e inferiores, categorizando a la judía entre estas últimas. Este enfoque "científico" sobre la raza y el antisemitismo encontró eco y se expandió rápidamente por Europa Occidental.
+
+Aunque el antisemitismo en Alemania no fue inicialmente tan pronunciado como en Francia, la situación cambió hacia finales del siglo XIX. En 1879, el término "antisemitismo" se utilizó por primera vez, apareciendo en un libro del panfletista alemán Wilhem Marr. Este evento, junto con la fundación en 1878 del Partido Cristiano Social Obrero de carácter antisemita en Alemania, marcó el comienzo de una era de hostilidad organizada y políticamente motivada contra los judíos en Europa Occidental, definiendo las décadas que condujeron a los eventos catastróficos del siglo XX.
+
+El crecimiento del antisemitismo también se debe a la bancarrota de la ***Union générale*** (católica), que había surgido por la iglesia para combatir a la banca judía. Los Rothschild consiguen que entre en crisis y se les atribuye la responsabilidad por la bancarrota en 1882.
+
+En el 1886, Edouard Drumont publica *La francia judía*, muy antijudía. También publica un periódico antisemita llamado *La libre parole*.
+
+En 1889 quiebra la **Compañía del Canal de Panamá** y en 1892 Drumont publica en *La libre parole* la lista de políticos comprados por los intermediarios judíos Reinach y Hertz. Se va creando una ideología antisemita poco a poco.
+
+**Affaire Dreyfus**
+
+El caso Dreyfus es uno de los episodios más notorios y divisivos en la historia del antisemitismo en Europa, resonando particularmente en Francia a finales del siglo XIX y principios del XX. En 1894, Alfred Dreyfus, un oficial del ejército francés de ascendencia judía, fue acusado y condenado injustamente por espionaje a favor de Alemania. La condena se basó en pruebas falsificadas y en un ambiente de antisemitismo arraigado en el ejército y la sociedad francesa.
+
+La condena de Dreyfus provocó una división profunda en la sociedad francesa. Por un lado, los "dreyfusards", quienes defendían su inocencia y luchaban contra el antisemitismo y por la justicia; por otro, los anti-dreyfusards, que veían en Dreyfus la personificación de la supuesta traición y deslealtad de los judíos a Francia. En 1898, tras un intenso debate público y presión mediática, la condena de Dreyfus fue revisada, aunque no sería hasta 1906 que finalmente fue rehabilitado y reintegrado en el ejército francés.
+
+**Émile Zola**, destacado escritor y figura del naturalismo francés, jugó un papel crucial en la defensa de Dreyfus. A través de su famoso artículo ***J'accuse…!***, publicado en el periódico, Zola acusó abiertamente al ejército francés y a la jerarquía militar de conspiración y falsedad en el juicio contra Dreyfus. Zola criticó la negativa del ejército a adherirse a los principios republicanos de igualdad y justicia para todos los ciudadanos, convirtiéndose en un símbolo de la lucha contra la injusticia y el antisemitismo.
+
+El *Affaire Dreyfus* no solo expuso la prevalencia del antisemitismo en la sociedad francesa de la época, sino que también subrayó la importancia de la lucha por los derechos civiles y la justicia. La rehabilitación de Dreyfus y el coraje de aquellos que defendieron su causa, como Zola, permanecen como testimonios poderosos de la resistencia contra la opresión y el prejuicio. Este episodio marcó un punto de inflexión en el entendimiento y el rechazo del antisemitismo en Francia y en toda Europa, resaltando la lucha continua por la igualdad y la justicia para todas las minorías.
+
+### Los protocolos de los sabios de Sión
+
+Este controvertido documento, conocido como *Los protocolos de los sabios de Sión*, es un ejemplo emblemático de la literatura antisemita que surgió a finales del siglo XIX y principios del XX. Se ha establecido que fue compuesto alrededor de 1895 por Piotr Rachkovski, jefe de la Okhrana en París. Este texto plagiaba partes de un panfleto contra Napoleón III escrito por Maurice Joly en 1864, y de la novela antisemita *Biarritz* de Hermann Goedsche publicada en 1868.
+
+Los protocolos presentan una supuesta conspiración judía para dominar el mundo, y sugieren una vinculación de los judíos con la masonería, teorías sin fundamento que han sido utilizadas para justificar el antisemitismo en diversos contextos.
+
+La primera publicación de este documento en Rusia fue en 1902, en idioma ruso. Su difusión en Occidente se incrementó notablemente a partir de 1917, y para cuando Adolf Hitler llegó al poder en Alemania, ya se habían publicado 33 ediciones en alemán y millones de copias en más de 20 idiomas. En España, la traducción realizada por Onésimo Redondo (fundador de las Juntas de Ofensiva Nacional Sindicalista, que más tarde se fusionarían con la Falange Española de José Antonio Primo de Rivera y luego con la Comunión Tradicionalista) en 1930 tuvo una influencia significativa.
+
+A pesar de que en 1921 el periódico *The Times* expuso *Los protocolos de los sabios de Sión* como un plagio y una falsificación, su traducción y difusión continuaron, convirtiéndose en un instrumento de la propaganda antisemita. Este fenómeno destaca la persistencia de narrativas falsas y su capacidad para influir en la opinión pública y en movimientos políticos a lo largo del tiempo.
+
+## El sionismo
+
+```json
+{
+    "clase": 10,
+    "date_time": "01:12:50",
+    "url": "https://campusvirtual.upo.es/webapps/collab-ultra/tool/collabultra?course_id=_59656_1&mode=view",
+}
+```
