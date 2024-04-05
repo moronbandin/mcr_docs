@@ -326,5 +326,4 @@ Poco después, en 1922 surgió otro partido ya en Jerusalén: HEPOEL HAMIZRAHI (
 
 Importante porque de estos dos partidos saldrá el Partido Nacional Sionista que hoy está en coalición con Netanyahu controlando el poder.
 
-En 1937 Agudat Israel cambia de estrategia, en el apogeo del nazismo. Ante esta circunstancia, A.I. decide colaborar con los sionistas y favorecer la llegada de migración a Palestina.
-
+En 1937 Agudat Israel cambia de estrategia, en el apogeo del nazismo. Ante esta circunstancia, A.I. decide colaborar con los sionistas y favorecer la llegada de migración a Palestina. Un grupito no comparte esta medida y funda EDAH HAREDI: los haredíes más conservadores cuyo grupo más radical se llama *Naturei Karta* ("guardianes de la ciudad)
