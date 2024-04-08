@@ -319,7 +319,7 @@ El sionismo implica la creación del Estado de israel por parte del ser humano.
 
 Los ortodoxos van a reaccionar de dos formas:
 
-- Algunos, la minoría, estarán de acuerdo. De hecho, en 1902 van a fundar en Vilna el MIZRAHI, que además de *oriental* es el acrónimo de ***Merkaz Ruhani*** ("centro espiritual), organización sionista ortodoxa. 
+- Algunos, la minoría, estarán de acuerdo. De hecho, en 1902 van a fundar en Vilna el MIZRAHI, que además de *oriental* es el notarikon de ***Merkaz Ruhani*** ("centro espiritual), organización sionista ortodoxa. 
 - La inmensa mayoría de ortodoxos se van a agrupar en **AGUDAT ISRAEL**, un partido político claramente establecido con sus estatutos y **antisionista**, porque consideran que el sionismo atrasa el mesianismo: si el ser humano pretende construir el Estado de Israel por sus propios medios, niega el poder/la oportunidad al Mesías que Dios ha prometido enviar. Y Dios considerará que los seres humanos son impíos por no confiar en el mesianismo divino. Aquí se van a agrupar tanto los haredíes (hasidíes y yeshivíes). El partido tuvo bastante fuerza en Polonia, Lituania y luego por supuesto en Israel, ya que participarán en las *aliyot*. 
 
 Poco después, en 1922 surgió otro partido ya en Jerusalén: HEPOEL HAMIZRAHI ("El obrero oriental"). Será un pacto sionista ortodoxo que podemos considerar de centro en el sentido en que no era ni muy conservador ni por supuesto socialista ni nada parecido, aunque tenga en su nombre el término obrero. 
