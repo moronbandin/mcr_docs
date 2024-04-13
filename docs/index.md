@@ -1,32 +1,29 @@
-# Índice de contenidos 📚
+# 📚 Índice de contenidos
 
-## Introducción 🌟
+## Introducción
 
-- [Introducción a la historia de las religiones](intro/index.md) 📜
-- [Lecturas fundamentales](lecturas/index.md) 📖
-- [Poder, sociedades y religiones](poder/index.md) ⚖️
-- [Teoría y metodología del estudio de las religiones](teoria/index.md) 🧠
+- [Introducción a la historia de las religiones](intro/index.md)
+- [Lecturas fundamentales](lecturas/index.md)
+- [Poder, sociedades y religiones](poder/index.md)
+- [Teoría y metodología del estudio de las religiones](teoria/index.md)
 
-## Historia dos monoteísmos 🕊️
+## Historia de los monoteísmos
 
-- [La biblia judía y la biblia cristiana](/biblia/index.md) ✝️✡️
-- [Historia del cristianismo](cristianismo/index.md) ✝️
-- [Historia del islam](islam/index.md) ☪️
-- [Historia del judaísmo](judaismo/intro.md) ✡️
-- Monoteísmos en el siglo XXI (to-do) 🔄
+- [La biblia judía y la biblia cristiana](/biblia/index.md)
+- [Historia del cristianismo](cristianismo/index.md)
+- [Historia del islam](islam/index.md)
+- [Historia del judaísmo](judaismo/intro.md)
+- Monoteísmos en el siglo XXI (to-do)
 
-## Religiones americanas 🌎
+## Religiones americanas
 
 - [El universo religioso americano y el fenómeno de las _New Religions_](americanas/index.md)
 
-## Religiones orientales 🎎
+## Religiones orientales
 
-- [Religiones orientales](orientales/index.md) 🧘
+- [Religiones orientales](orientales/index.md)
 
-## Estudios sobre el politeísmo 🏛️
+## Estudios sobre el politeísmo
 
-- [El politeísmo mediterráneo](politeismo/index.md) 🌊
+- [El politeísmo mediterráneo](politeismo/index.md)
 
----
-
-© 2023 | @a.morón

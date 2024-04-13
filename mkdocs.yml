@@ -34,14 +34,15 @@ nav:
     - Apuntes: americanas/apuntes/amcas.md
     - Materiales: americanas/materiales/
 theme:
+  language: gl
   name: 'material'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'blue grey'
+    accent: 'yellow'
   logo: 'images/logo.png'
   favicon: 'images/favicon.ico'    
   font:
-    text: 'Roboto'
+    text: Roboto
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/moronbandin
