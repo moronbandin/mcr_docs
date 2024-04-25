@@ -311,7 +311,10 @@ En 1896, Herzl publicó [*El estado judío*](https://es.wikipedia.org/wiki/El_Es
 
 Sin embargo, durante el [Primer Congreso Sionista](https://es.wikipedia.org/wiki/Primer_Congreso_Sionista) celebrado en Basilea en 1897, la mayoría de los asistentes decidieron que el Estado Judío debería establecerse en Palestina, no en Argentina. Este congreso marcó el inicio de un esfuerzo concertado para promover una migración pacífica hacia Palestina.
 
-Herzl imaginó el sionismo con un enfoque socialista, distinto tanto del socialismo clásico de la socialdemocracia alemana como del comunismo. Propuso un socialismo más moderado, basado en la creación de comunidades ([yehuds](https://es.wikipedia.org/wiki/Yehud)) donde se compartieran bienes y medios de producción, fomentando así un sentido de comunidad entre los inmigrantes judíos.
+![El Programa de Basilea, aprobado por el Primer Congreso Sionista en 1897, en el cual la primera línea declara: «El sionismo busca establecer un hogar para el pueblo judío en Palestina garantizado por el derecho público».](image.png)
+> El **Programa de Basilea**, aprobado por el Primer Congreso Sionista en 1897, en el cual la primera línea declara: <br>«El sionismo busca establecer un hogar para el pueblo judío en Palestina garantizado por el derecho público».
+
+Herzl imaginó el sionismo con un enfoque socialista, distinto tanto del socialismo clásico de la socialdemocracia alemana como del comunismo. Propuso un socialismo más moderado, basado en la creación de comunidades ([yishuvim](https://es.wikipedia.org/wiki/Yishuv)) donde se compartieran bienes y medios de producción, fomentando así un sentido de comunidad entre los inmigrantes judíos.
 
 ## Reacción ultraortodoxa al sionismo
 
@@ -319,11 +322,196 @@ El sionismo implica la creación del Estado de israel por parte del ser humano.
 
 Los ortodoxos van a reaccionar de dos formas:
 
-- Algunos, la minoría, estarán de acuerdo. De hecho, en 1902 van a fundar en Vilna el MIZRAHI, que además de *oriental* es el acrónimo de ***Merkaz Ruhani*** ("centro espiritual), organización sionista ortodoxa. 
-- La inmensa mayoría de ortodoxos se van a agrupar en **AGUDAT ISRAEL**, un partido político claramente establecido con sus estatutos y **antisionista**, porque consideran que el sionismo atrasa el mesianismo: si el ser humano pretende construir el Estado de Israel por sus propios medios, niega el poder/la oportunidad al Mesías que Dios ha prometido enviar. Y Dios considerará que los seres humanos son impíos por no confiar en el mesianismo divino. Aquí se van a agrupar tanto los haredíes (hasidíes y yeshivíes). El partido tuvo bastante fuerza en Polonia, Lituania y luego por supuesto en Israel, ya que participarán en las *aliyot*.
+- Algunos, la minoría, estarán de acuerdo. De hecho, en 1902 van a fundar en Vilna el [***Mizrahi***](https://en.wikipedia.org/wiki/Mizrachi_(political_party)), que además de *oriental* es el acrónimo de ***Merkaz Ruhani*** ("centro espiritual), organización sionista ortodoxa. 
+- La inmensa mayoría de ortodoxos se van a agrupar en [**Agudat Israel**](https://es.wikipedia.org/wiki/Agudat_Israel), un partido político claramente establecido con sus estatutos y **antisionista**, porque consideran que el sionismo atrasa el mesianismo: si el ser humano pretende construir el Estado de Israel por sus propios medios, niega el poder/la oportunidad al Mesías que Dios ha prometido enviar. Y Dios considerará que los seres humanos son impíos por no confiar en el mesianismo divino. Aquí se van a agrupar tanto los haredíes (hasidíes y yeshivíes). El partido tuvo bastante fuerza en Polonia, Lituania y luego por supuesto en Israel, ya que participarán en las *aliyot*.
 
-Poco después, en 1922 surgió otro partido ya en Jerusalén: HEPOEL HAMIZRAHI ("El obrero oriental"). Será un pacto sionista ortodoxo que podemos considerar de centro en el sentido en que no era ni muy conservador ni por supuesto socialista ni nada parecido, aunque tenga en su nombre el término obrero.
+Poco después, en 1922 surgió otro partido (de inmigrantes) ya en Jerusalén: [***HaPoel HaMizrahi***](https://es.wikipedia.org/wiki/HaPoel_HaMizrahi) (*el obrero oriental*). Será un pacto sionista ortodoxo que podemos considerar de centro en el sentido en que no era ni muy conservador ni por supuesto socialista ni nada parecido, aunque tenga en su nombre el término obrero.
 
-Importante porque de estos dos partidos saldrá el Partido Nacional Sionista que hoy está en coalición con Netanyahu controlando el poder.
+Importante porque de estos dos partidos saldrá el **Partido Nacional Sionista** que hoy está en coalición con **Netanyahu** controlando el poder.
 
-En 1937 Agudat Israel cambia de estrategia, en el apogeo del nazismo. Ante esta circunstancia, A.I. decide colaborar con los sionistas y favorecer la llegada de migración a Palestina. Un grupito no comparte esta medida y funda EDAH HAREDI: los haredíes más conservadores cuyo grupo más radical se llama *Naturei Karta* ("guardianes de la ciudad)
+En 1937 Agudat Israel, en el apogeo del nazismo, cambia de estrategia. Ante esta circunstancia, A.I. decide colaborar con los sionistas y favorecer la llegada de migración a Palestina. Un grupito no comparte esta medida y funda [***Edah Haredit***](https://es.wikipedia.org/wiki/Edah_Haredit): los haredíes más conservadores cuyo grupo más radical se llama [***Naturei Karta***](https://es.wikipedia.org/wiki/Neturei_Karta) (*guardianes de la ciudad*) y que consideran que hay que colaborar con la Autoridad Palestina, con las organizaciones políticas palestinas. Colaboraron con la [Organización para la Liberación de Palestina](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Liberaci%C3%B3n_de_Palestina) (OLP) de [Yasser Arafat](https://es.wikipedia.org/wiki/Yasir_Arafat) y siguen colaborando actualmente con la **Autoridad Nacional Palestina** (ANP). Yasser Arafat les dio el *Ministerio de Asuntos Judíos* en la OLP. Hoy la **ANP** no tiene poder sobre población judía; los colonos no dependen de ellos.
+
+## *Aliyot* del s. XX anteriores a la creación de Israel
+
+Durante el siglo XX se produjeron cuatro *aliyot* más. 
+
+- **La primera (2ª) -> 1904-1915**
+
+    En 1900 se habían creado las *centuras negras* y en este periodo unos 40k judíos del Este se trasladan a Israel y empiezan a usar el hebreo moderno como lengua oficial de la comunidad judía palestina. Crean el primer [kibutz](https://es.wikipedia.org/wiki/Kibutz) en 1909 y la organización del primer cuerpo paramilitar judío: [Hashomer](https://es.wikipedia.org/wiki/Hashomer), *el vigilante*, judíos armados (de ningún Estado, pues aquello aún es territorio otomano).
+
+    En 1917 fueron asesinados unos 125.000 judíos en Ucrania por el [Ejército Blanco](https://es.wikipedia.org/wiki/Ej%C3%A9rcito_Blanco_(Rusia)).
+
+- **La segunda (3ª) -> 1917**
+
+    Unos 35k judíos de Ucrania y Rusia. En pleno contexto de la 1ª Guerra Mundial, los británicos ocupan Palestina, en la lucha contra el Imperio Otomano que se ha aliado a Alemania y Austria. Palestina se convierte en Mandato Británico y se produce la [**Declaración Balfour**](https://es.wikipedia.org/wiki/Declaraci%C3%B3n_Balfour), un ministro británico que promete la creación de un estado judío en Palestina.
+
+- **La tercera (4ª) -> 1923**
+    
+    Los EEUU cambian su política de migración y restringen la entrada, incluyendo judíos. Hay una mayor migración a Palestina. Hasta entonces, la migración a EEUU era mucho más numerosa que a Palestina. En EEUU eran ya 4 millones, un 3,6% de la población estadounidense, de modo que 40k judíos de Polonia y otros 40k del resto de Europa, Irak y Yemen emigrarían a Palestina.
+
+- **La cuarta (5ª) -> 1929-1939**
+
+    Como consecuencia del nazismo, 225k judíos, sobre todo alemanes emirgaron a Palestina duplicando la población judía. El [***Libro Blanco de 1939***](https://es.wikipedia.org/wiki/Libro_Blanco_de_1939) limitó la inmigración a 75k en cinco años y planteó el objetivo de un Estado único con mayoría árabe.
+
+En 1880 había unos 24.000 judíos en Palestina, un 8% de la población.
+
+En 1946 eran 630.000, un 30% y cientos de miles de supervivientes del holocausto querían emigrar allí. El fenómeno había empezado en el s. XIX y seguía, y seguramente si no hubiera habido holocausto ni II Guerra Mundial se habría producido igualmente.
+
+## Evolución del sionismo (1920-1945)
+
+En 1920, tras un progromo árabe en Jerusalén, Hashomer se transformó en [Haganá](https://es.wikipedia.org/wiki/Hagan%C3%A1) (*la defensa*), que tuvo como líder en los años 30 y 40 al sionista [David Ben Gurión](https://es.wikipedia.org/wiki/David_Ben-Guri%C3%B3n).
+
+En 1931, [Ze'ev (Vladímir) Jabotinsky](https://es.wikipedia.org/wiki/Zeev_Jabotinsky) (un líder de Europa Oriental), admirador de Mussolini, creó la Haganá B, luego [Irgún](https://es.wikipedia.org/wiki/Irg%C3%BAn), grupo paramilitar que cometió numerosos atentados contra los británicos.
+
+Ben Gurión no atenta contra los británicos, *defiende* a los judíos de posibles ataques árabes.
+
+A la muerte de Jabotinsky en 1940 se dividió en
+
+- [**Herut**](https://es.wikipedia.org/wiki/Herut): precursor del [Likud](https://es.wikipedia.org/wiki/Likud), el partido conservador israelí, el sionismo de derechas. Como Jabotinsky admiraba a Mussolini, Gurión se metía con él diciendo que era Vladimir Hitler.
+- [**Lehi**](https://es.wikipedia.org/wiki/Leji): un partido racista judío, partidario de colaborar con Hitler durante la II Guerra Mundial.
+
+La división entre Herut y Lehi será precisamente esa. Jabotinsky era partidario de Mussolini pero cuando estalla la II Guerra Mundial en el 39 y Jabotinsky muere, se produce la división por si deben apoyar a los británicos o al Eje. Un grupito minoritario dice que deben apoyar al Eje porque el partido nazi quiere crear un estado alemán racialmente puro y ellos también quieren eso para el pueblo judío. Hitler no les hizo ni puñetero caso y siguió con su plan de exterminio del pueblo judío.
+
+## Antisemitismo francés del XX
+
+En Francia tienen su partido, la *Action Française*, fundado en 1898 por los antidreyfusianos Vaugeois y Pujo.
+
+Se publicó en 1905 el *Précis de l'Affaire Dreyfus*, obra antidreyfusiana firmada por [Henri Dutrait](https://fr.wikipedia.org/wiki/Henri_Dutrait-Crozon), un pseudónimo colectivo de los coroneles Frédéric Delebecque y Georges Larpen, dos militantes de [***Action Française***](https://fr.wikipedia.org/wiki/Action_fran%C3%A7aise) y colaboradores de la Revue d'Action française (que se convirtió en [*L'Action française*](https://fr.wikipedia.org/wiki/L%27Action_fran%C3%A7aise_(quotidien)) bajo la dirección de Charles Maurras en 1908). 
+
+Se trata de una obra que se presenta como un estudio de carácter científico tanto por su minuciosa descripción de los hechos, por sus numerosas citas, su abundante bibliografía como por su amplitud (alrededor de 400 p.) y su índice analítico. El Précis, que responde hábilmente a los criterios de una obra académica y didáctica, es, sin embargo, un amplio alegato antidreyfusiana.
+
+Atentado con bombas fétidas en el estreno de la obra de teatro *L'affaire Dreyfus* de René Kestner (1931).
+
+> ***¿Fuente? No se encuentra ni el autor ni la obra.***
+
+A la muerte de Dreyfus en 1935 la prensa antisemita reivindicó de nuevo su culpabilidad.
+
+## Antisemitismo alemán del XX
+
+En 1919 se funda el Partido Obrero Alemán, en el que ingresa Hitler, quien en 1929 lo transforma en el Partido Nacional Socialista Alemán.
+
+En 1923 fracasa el [Putsch de la Cervecería](https://es.wikipedia.org/wiki/Putsch_de_M%C3%BAnich), que costó ocho meses de cárcel a Hitler en los que escribió [Mein Kampf](https://es.wikipedia.org/wiki/Mi_lucha).
+
+Si en 1929 sólo btuvo un 1,1% de los votos, tras el [Crac de Nueva York](https://es.wikipedia.org/wiki/Crac_del_29) obtuvo el 18,25% en las elecciones de 1930. El 37% en julio del 32 y el 44% en el 33, con Hitler ya como Canciller. Dio un golpe de Estado y al año siguiente se proclamó Führer del [Tercer Reich](https://es.wikipedia.org/wiki/Alemania_nazi).
+
+Crea los **[Escuadrones de Protección](https://es.wikipedia.org/wiki/Schutzstaffel)** (**ϟϟ**):
+
+- **SS-General**: 1925
+
+    Protección de los altos cargos del partido. Dirigida por Himmler desde el 29.
+
+- **SS-Calavera**: 1934
+
+    Dirección de campos de concentración. Dirigida por Glücks desde el 39.
+
+- **SS-Armada**: 1939
+
+    Tropas de élite muy politizadas usadas en el frente. Dirigidas por Dietrich.
+
+En **marzo del 1933** se abrieron 50 campos de concentración (Dachau el primero).
+
+En **abril** se los expulsa de la administración pública.
+
+En **mayo** se queman sus libros.
+
+En **septiembre** se los expulsa de la prensa, el cine y el teatro.
+
+En **1934** se retira la ciudadanía a los judíos.
+
+En **1935** se proclamaron las [Leyes Raciales de Núremberg](https://es.wikipedia.org/wiki/Leyes_de_N%C3%BAremberg).
+
+En **1938** se produjo la [Noche de los cristales rotos](https://es.wikipedia.org/wiki/Noche_de_los_cristales_rotos) (400 sinagogas y 7000 negocios destruidos, 30.000 judíos trasladados a campos).
+
+En **1939** se les expropia oro y plata. Se los traslada a guetos y se les obliga a llevar la [estrella amarilla](https://es.wikipedia.org/wiki/Insignia_amarilla).
+
+## Antisemitismo europeo oriental del XX
+
+En septiembre de 1939 Alemania invade Polonia.
+
+En septiembre del año siguiente se proclama la dictaudra de [Antonescu](https://es.wikipedia.org/wiki/Ion_Antonescu) en Rumanía que firma el [Pacto Tripartito](https://es.wikipedia.org/wiki/Pacto_Tripartito) con Alemania e Italia (la URSS había invadido Moldavia en julio y Hungría Transilvania en agosto).
+
+En enero de 1941 **progromo de Bucarest**, en junio [Operación Barbarroja](https://es.wikipedia.org/wiki/Operaci%C3%B3n_Barbarroja): Alemania ocupa Ucrania excepto Transnistria y Odesa, ocupadas por Rumanía.
+
+En otoño de 1941 masacres de Odesa y de Babi Yar en Kiev (ciudades que tuvieron entre 200k y 300k judíos).
+
+A este fenómeno se le denominó el *Holocausto de las Balas*.
+
+![Holocausto de las Balas](image-1.png)
+
+Esta fotografía se ha hecho viral desde que en las últimas décadas del XXI se investigara, por parte de algunos historiadores polacos de izquierda, la participación de autoridades polacas y ucranianas en la persecución de los judíos.
+
+[**Noticia**](https://elpais.com/internacional/2021-02-10/polonia-estrecha-el-cerco-contra-los-historiadores-del-holocausto.html)
+
+## La solución final
+
+[**Conferencia de Wannsee**](https://es.wikipedia.org/wiki/Conferencia_de_Wannsee), enero de 1942.
+
+En esta conferencia, los líderes alemanes deciden la estrategia de los campos de exterminio para los asesinatos en masa de los judíos. Esto supuso el mayor genocidio de la historia de la humanidad.
+
+## Proclamación del Estado de Israel
+
+[Plan de Partición](https://es.wikipedia.org/wiki/Plan_de_las_Naciones_Unidas_para_la_partici%C3%B3n_de_Palestina) aprobado por la Asamblea de la ONU, aprobado el 29 de noviembre del 1947, establece la posibilidad de dos estados, uno árabe (mayoritariamente musulmán) y un estado judío.
+
+![Plan de Partición](image-2.png)
+
+En el mapa vemos el Plan de Folke Bernadotte, el príncipe sueco (de la faimila Bernadotte, de un antiguo general de la familia de Napoleón que se convirtió en rey de Suecia) enviado de la ONU que propuso un Estado Binacional en mayo con estatuto internacional para Jerusalén. 
+
+Tras negociar con unos y otros, resolvió que había que: 
+
+- Otorgar la mayor parte **del territorio poblado** a los árabes (lo amarillo)
+- Otorgar a los judíos una parte de la costa palestina con Tel Aviv y Jaffa + una parte de Galilea que estaba muy poblada de judíos desde las migraciones sefardíes a Tiberíades del s. XVI. Y luego, en el sur, el Desierto del Negev, prácticamente deshabitado.
+- Crear, para Jerusalén, un estatuto internacional de protección oficial por parte de la ONU. Con tropas de la ONU, se permitiría la asistencia a Jerusalén para judíos, cristianos y musulmanes.
+
+Los árabes rechazaron el plan el 17 de diciembre del 1947 y el 14 de mayo del 1948 Ben-Gurión proclamó el Estado de Israel. Bernadotte fue asesinado por el partido **Lehi**, ese partido fascista judío.
+
+## [Nakba](https://es.wikipedia.org/wiki/Nakba) (1949)
+
+A partir de ese momento se produce el éxodo palestino. 
+
+> Según la Agencia de las Naciones Unidas para los Refugiados Palestinos (UNRWA), son refugiados palestinos las "***personas cuyo lugar de residencia habitual era el mandato británico de Palestina entre junio de 1946 y mayo de 1948 y que perdieron sus casas y medios de vida como consecuencia de la guerra árabe-israelí de 1948***". Dicha definición también incluye a sus descendientes.
+
+Y la [Primera Guerra Árabe-Israelí](https://es.wikipedia.org/wiki/Guerra_%C3%A1rabe-israel%C3%AD_de_1948) (14 de mayo de 1948 - 20 de julio de 1949)
+
+## Aliyá *Alfombra roja*
+
+![alt text](image-3.png)
+
+## Aliyá de Babilonia
+
+![alt text](image-4.png)
+
+## Aliyot de los Falashas
+
+![alt text](image-5.png)
+
+## Evolución del judaísmo reformado en el XX y el XXI
+
+![alt text](image-6.png)
+
+Este hecho del rabino de intentar integrar a las mujeres en un judaísmo más moderno le costó la expulsión de la comunidad. Funda el reconstruccionismo: una corriente judía que admite que se puede ser judío de múltiples maneras, incluso ateo.
+
+Evolución de las mujeres en el jdmo reformista: Regina Jones 1935 ordenada primera rabina. Luego ya, a partir de los 70 con esa ola nueva de feminismo mundial. 
+
+## Evolución de la ultraortodoxia (1948-)
+
+![alt text](image-7.png)
+
+## Evolución del sionismo (1949-2024)
+
+![alt text](image-8.png)
+
+## Evolución de la sociedad israelí
+
+![alt text](image-9.png)
+
+Ahora hasta van a los mítines con pistola.
+
+![alt text](image-10.png)
+
+## Conflicto palestino-israelí (1947-2024)
+
+![alt text](image-13.png)
+
+[**Acuerdos de Abrahám**](https://es.wikipedia.org/wiki/Acuerdo_de_normalizaci%C3%B3n_de_las_relaciones_entre_Emiratos_%C3%81rabes_Unidos_e_Israel)
+
+![alt text](image-12.png)
