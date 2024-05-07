@@ -381,4 +381,173 @@ No sabemos nada sobre los orígenes del Islam en materia civilizadora más que a
 
 [00:21:43]
 
-Un teologuema
+Esclarecemos que el islam no se expande por conquista por evitar aplicar en historia un criterio religioso-teológico. Un teologuema es, a falta de una prueba científica, elevar una creencia al rango de demostración científica. No hay absolutamente ninguna crónica árabe de los años 600-700 que pueda demostrar una conquista determinada.
+
+Sí tenemos crónicas datadas desde el 550 hasta el 750 (terminando con la biografía de Juan Damasceno, que no tiene ni idea de que exista nada llamado islam ni nada llamado Corán en esa altura; sin embargo, cuando googleamos "Juan Damasceno" parece que habla del islam: problemas de traducción, controversias filológicas muy interesantes).
+
+Este segundo Islam es la calma después de la tormenta, el fin de la disputa entre Bizancio y Persia. Todo el carácter bélico que pueda expresarse en todas las crónicas responde al enfrentamiento entre esos dos imperios. Cuando ambos han sido derrotados y desgastados surgirá, de los pueblos yuxtapuestos de OM, una cierta civilización basada más en una cadena de ciudades comerciales y menos en un centro y una periferia. Esta será la clave de este segundo Islam-civilización: el comercio.
+
+Este Islam que se expande por todo el Mediterráneo no invade, sino que mantiene estas mismas lógicas bélicas de la Antigüedad Tardía. Llegará un momento en que sea la civilización de guardia de la Edad Media, ahora traducido todo el legado grecolatino, habrá avanzado en materia científica mucho más allá de donde lo dejaron los griegos; habrá avanzado en materia de urbanismo, sociedades y derecho más allá de lo que lo hicieron los romanos/bizantinos; y llegará un momento en torno al XV en que se eclipsará porque Europa toma el relevo de esa civilización de guardia. Esa Europa que circunvalará África, que puenteará el comercio en el cual se basaba la civilización del Islam provoca ese escurecimiento del segundo Islam, que no levantará cabeza hasta el s. XIX con la invasión napoleónica de egipto y el pistoletazo de salida del colonialismo. Colonialismo que forjará una dualidad entre la metrópolis y las tierras árabes e islámicas conquistadas, donde surgirá prácticamente en el XX el tercer islam.
+
+## Islam
+
+Este ya no es un islam internacional, es nacionalizado, está asociado a cada uno de los países que se irán creando de las ruinas del colonialismo y no podemos establecer ninguna conexión ocncreta de herencia entre la religión (islam 1), la civilización (islam 2) y las sociedades musulmanas contemporáneas (islam 3), pero los 3 interesan en un módulo de islam; los tres tienen tres formas de entender un mismo fenómeno que podemos definir como el **islam** en general, con esa tríada.
+
+---
+
+Separaremos la religión-islam (musulmán), la civilización-Islam (islámico) y la sociedad contemporánea (global: islámica - religioso: musulmán).
+
+
+- Cuando nos refiramos a la **religión** del islam, su adjetivo será siempre lo *musulmán*.
+    - *El musulmán, la musulmana, el rito musulmán.*
+- Cuando nos refiramos a la cultura, que sea islámico.
+    - *El arte islámico, la arquitectura islámica, los manuscritos miniados en las tierras del Islam.*
+- Cuando hablemos de las sociedades musulmanas contemporáneas no estableceremos una línea directa de causa-efecto entre religión-cultura y civilización contemporánea, sino entenderemos tres cosas diferentes.
+
+# Prenotanda
+
+### La antigüedad conectada
+
+**[Fernando Wulff Alonso](https://www.umaeditorial.uma.es/autor/fernando-wulff-alonso/)** es Catedrático de Historia Antigua de la Universidad de Málaga: sobre los viajes que se hacían desde el cuerno de África de los griegos hacia la India. Unas imágenes magníficas sobre imaginería india de Krishna con Hércules, dándole con un paraguas como el Hércules estuviese a su servicio; una permanente mezcla, un sincretismo de los mundos culturales que nos hace ver que la Antigüedad estaba permanentemente conectada.
+
+Que si el primer gran anacoreta del cristianismo, Antonio, en el desierto egipcio, resulta que se mete en un eremitorio porque quiere pasar penalidades y descubrir la verdadera esencia del sacrificio en nombre de Dios, la obra de Wulff dirá que es porque ha habido conocimientos del mundo brahman de la India y ha habido una *imitatio*, una consideración atlética (físico-mental) de lo que debe ser un cristiano: precisamente porque la espiritualidad de la India hizo mella en OM por esa permanente conexión.
+
+El propio F. Wulff hace referencia a que hasta hablando de Platón tenemos un momento en su biografía que se pierde y se sitúa en ese período de su vida la posible influencia del mundo órfico. Un mundo que es evidentemente oriental, evidentemente espiritualista y evidentemente está muy ligado a la consideración de lo religioso e incluso de lo teológico del mundo de la India. Por tanto, hay que comprender OM como una caja de resonancia, no como un desierto de aislamiento. 
+
+> El islam no surge en el desierto, surge en El Corte Inglés, en la plaza del pueblo, en el ágora. Porque está rodeado de témenos de diferentes religiones. Es el mínimo común múltiplo de la espiritualidad, de la forma de entender la creación del mundo, de la ética constructiva de la conducta de un ser humano que si es bueno va al cielo y si es malo va al infierno. Es decir, las estructuras que hereda de la interpretación religiosa del mundo provienen de una espiritualidad oriental (India) y de unas consideraciones judeocristianas ya aludidas.
+
+La antigüedad conectada se revela fundamental para no entender todo esto como compartimentos estancos. El islam, el cristianismo, el judaísmo, llegan a la Península Ibérica porque hay una red comercial que está permanentemente trayendo fes diferentes.
+
+Si un señor tan importante para el crmo o la hª de España como Isidoro de Sevilla se llama Isidoro, es evidente que ha habido una adoración de Isis en otras partes del Mediterráneo más allá del mundo Egipcio; es evidente que ha habido una cristianización de determinados conceptos previos. El cristianismo no se entiende sin Egipto, donde se considera el concepto de la una madre theotókos, sólo hay que ver a Isis con su hijo Horus (o con Harpócrates en otras interpretaciones del Alto Egipto): se entiende la idea de la maternidad de Dios a través de la fe egipcia, por lo que es claro que el crmo incorpora el elemento de la virginidad a través de Isis, del no concurso de varón precisamente por cómo Isis tendrá a Horus, o la interpretación de Ra (que ha sido desmenuzado por el río). Es decir, toda la mitología está permanentemente conectada en el MT, que es una caja de resonancia. El mundo fenicio, el griego, el egipcio, están en permanente conexión.
+
+Pasa que en nuestra mentalidad creacionista parece que no hay una razón concreta, sino oleadas para que se cristianice la Península Ibérica, también para que de judaíce, pero el islam llega a las uñas de caballos de unos invasores, hecho que sería perfectamente aceptable si tuviésemos alguna crónica concreta que lo respaldase, pero la primera vez que se habla de las invasiones islámicas de Occidente se da en el año 1000. Por tanto, una persona dedicada a la ciencia que ofrece como primera fuente una fuente escrita 300 años después de que ocurriesen unos hechos, no está siendo honrada.
+
+### Teología de la Historia
+
+Es fundamental comprender el islam en el marco de la teología agustiniana de la historia (judeocristiana) del tiempo surgido en un momento creativo de Dios que acabará con un último momento destructivo del mismo Dios; mientras tanto estamos nosotr@s en el tablero de ajedrez, matándonos unos a otros, pensando si iremos al cielo o al infierno.
+
+- Cada vez que un pueblo la está liando, Dios lo castiga (está en el AT, en el AQ).
+- Cada vez que un pueblo se está perdiendo, Dios mandará un profeta, el pueblo no le hará caso y si no le hace caso será destruido...
+
+Es decir, la propia literatura religiosa parte de este tren histórico que va desde el Génesis hasta el Apocalipsis, desde el principio hasta el final.
+
+Decía [Jacob Taubes](https://es.wikipedia.org/wiki/Jacob_Taubes), un gran interpretador de la teología oriental y occidental, en su libro [*Escatología occidental*](https://www.casadellibro.com/libro-escatologia-occidental/9788492613410/1835102) algo que nosotros podemos actualizar: por mucho que tú dejes de creer en Dios, mantienes esta teología de la historia. El marxismo, el sentido hegeliano del avance hacia un final previsible, por mucho que le incorpores el bucle de tesis-síntesis-antítesis o el bucle de lucha de clases, tú estás avanzando hacia algo. Esa linealidad del tiempo es la teología de la historia que llevamos inculcada en nuestro ADN cultural desde siempre y que no conseguimos quitarnos de encima porque podemos actualizarlo planteando:
+
+> Está bien, no aceptemos la existencia de Dios pero creemos un Big Bang de arranque y creemos el calentamiento del Sol del final.
+
+Estamos anclados en una interpretación narrativa, secuencial, de algo que proviene de una creación (por mucho que no sepamos explicar cómo fue) y que está abocado hacia un apocalipsis. Y tenemos el mismo sentido de culpa de esa teología de la historia: si antes era el pecado, ahora es el no-reciclar, emitir partículas nocivas tanto al mar como al espacio.
+
+La lógica del ser humano en su tiempo es plantear una teología de la historia; plantear que el ser humano tiene que cargar con un pecado original porque se está alejando de lo que era el motivo prístino de la creación del mundo. 
+
+### Veneración por el texto y texto venerado
+
+Se **veneró** el texto **antes** de **creer** en los textos venerados.
+
+Esto se sitúa en el momento exacto de
+
+- El Egipto Ptolemaico
+- El auge de la Biblioteca
+- El nacimiento de la filología
+
+En el siglo I aec y hasta la afluencia del neoplatonismo (II-III, Amonio, Plotino...), lo primero que se hace es recopilar, reeditar los textos conocidos. El primer texto que se trabaja en la Biblioteca en el auge filológico alejandrino de edición será Homero. Se pondrá por escrito, por fin, la Ilíada, un texto que había ido de boca en boca reinterpretándose, ampliándose a lo largo de siglos. De tal manera que desde Homero, quien fuera (si existió), hasta la codificación de un texto concreto han pasado cientos de años. Y será en Alejandría donde se fije por primera vez el texto homérico, sirviendo de base para los futuros comentarios hermenéuticos, ediciones filológicas... La edición del texto nace en Alejandría, nace en griego, nace con Homero.
+
+El segundo gran texto que se pondrá por escrito serán los LXX, la primera gran codificación de los textos hebreos. Es decir, hasta entonces no hay un canon completo en hebreo. En la simbología del gran poder de la palabra divina se dirá que no es una *editio princeps*, sino una traducción.
+
+> **Siempre hay una gran excusa**:<br>"Esto es un texto que recopila algo anterior".<br>"Es que el Deuteronomio es una segunda ley pero en realidad la habían encontrado Esdrás y Nehemías en los huecos de un templ..."<br>**Siempre hay una mentira literaria para ocultar la carencia de un texto de primera mano.**
+
+La gran elaboración por excelencia, la gran recopilación por excelencia, la gran ficción de que todo proviene de una sola fuente, será el Corán. Porque ya ni siquiera plantea que esté recopilando textos anteriores, sino que dice ser la *ipsissima verba* de la propia divinidad. No es que el Q recoja la palabra de Dios, es que es Dios.
+
+El texto venerado, aplicado al islam, será importante concebirlo como la *enlibración de Dios*, igual que en el cristianismo es la encarnación.
+
+> Tanto el cristianismo como el islam nacen como el principio del Evangelio de San Juan:<br>- Si consideras **simbólicamente** ese verbo y estás hablando de **Jesús**, eres **cristiano**.<br>- Si consideras **literalmente** ese verbo y estás hablando de **Dios**, eres **musulmán**.
+
+### *Leitmotifs* en el pensamiento de Oriente Medio
+
+- Cómo hay que interpretar el islam en tanto que arabización de un cierto neoplatonismo
+- Cómo no podemos abandonar ninguna de las especialidades que nos rodean para abordar el islam: sociología, historia, filología, CCRR... Para comprender todo este maremágnum.
+- La creación, la bondad, la maldad, la promesa, la alianza... Todo esto de OM va a estar en el islam epigenéticamente: ha nacido de ese mundo.
+
+### *Early Islam* y codificación del Corán
+
+**El islam naciente**
+
+Es judeocristiano. Recopilativo. Zona de tranquilidad establecida en OM después de que a partir del 624 se selle por fin la paz entre Bizancio y Persia.
+
+No se puede entender el islam naciente sin que sea hijo de su tiempo. Y ese tiempo son **200 años de guerra en OM** entre Constantinopla (la Romania) y el Imperio Sasánida.
+
+Entre Oriente y Occidente, si estamos permanentemente jugando a lo que de alguna maner apodría ser un acercamiento certero a cómo el mundo persa intervino sobre el griego, cómo después el griego intervino sobre el persa, y cómo después ambos mundos se estancaron en una frontera porosa entre Bizancio, ya la Roma helenizada, y el Imperio Persa, y durante más de dos siglos en todo OM cualquier tribu del desierto, cualquier ciudad será invadida, ocupada, destruida, en el marco de lo que Emilio G. Ferrín llama la *Guerra Fría entre Bizancio y el I. Persa*. Fría porque hay menos enfrentamiento directo de tropas y más cuestión de estados interpuestos.
+
+Sólo se comprenderá el islam naciente si entendemos que cuando se selle la paz entre Bizancio y Persia, la Paz de Nínive en 624, los pueblos que antes estaban financiados para atacar la frontera del otro van a empezar a actuar por cuenta propia. Esto se parece mucho a cuando Roma en Occidente está financiando sus fronteras, pagando a tropas francas, visigodas, godas, para no tener que participar directamente en la guerra de la frontera el ciudadano romano y hay un momento en que la frontera actúa por sí misma.
+
+En ese momento en que ya no se puede financiar más porque se ha desconectado la metrópolis con la frontera, ese momento es el momento de guerra permanente que va a describir la codificación del Corán. El Q no habla de "nosotros" como invasores, sino de cómo surge una verdad en medio de un entorno bélico. El islam no es la causa, es la consecuencia de la guerra.
+
+### Narración retrospectiva y alienación histórica
+
+**Narración retrospectiva** < *La angustia de Abraham*. Describe cómo las religiones se van constituyendo hasta acabar en esa espuma de mezcla de codificación que será el islam.
+
+La serie de la Guerra de las Galaxias: cuando terminó la primera película, todos los espectadores estaban preparados para la segunda partiendo de una historia concreta. Luke y Leia se quieren, pueden ser novios y hay un tío malo, Darth Vader. Cuando después se le da la vuelta a toda la narración, se ve que L y L son hermanos y empiezas a sospechar que el malo puede ser su padre...Cuando se empieza a alimentar de nuevo una narración que tú tenías codificada de otra manera, eso es la **narración retrospectiva**, y es la forma en que se codifica textualmente un sistema religioso.
+
+Cuando se presenta el primer número del cómic de Superman, Clark Kent es periodista, se quita las gafas y se pone el traje y ya es Superman. En el primer minuto, la primera entrega, la primera viñeta tenemos a Clark Kent enamorado de Louisa Lane y a Superman salvando el mundo. Tiene otra entrega, y otra, y otra... Pasan veinte años hasta que se dibuje, se narre la historia de por qué ese tipo es tan poderoso. No se había explicado. La gente sabía lo que era la criptonita pero nadie sabía porqué tenía poderes. De pronto, en una entrega mágica, aparece un número: Los orígenes de Superman. Aparece en Kripton, con mamá-superman y papá-superman poniendo al niño-superman en una nave para que huya del planeta que va *delendus est*. Eso es la narración retrospectiva.
+
+Algo tiene tanta importancia con el tiempo, con un origen tan desconocido, que tienes que escribir fingiendo que has encontrado una serie de fuentes que por fin te dan la razón de ser de las cosas que te habías aprendido de memoria.
+
+Esto genera una alienación histórica en el islam, porque explica el islam como invasión, poniendo el carro delante de los bueyes: en vez de ser el efecto de un tiempo de guerra será el generador de la guerra. Y le encanta a la propia narrativa islámica, porque así aparece el musulmán como poderoso guerrero.
+
+### El pensamiento medieval islámico
+
+La biografía de Dios que va desde el Dios-elefante que aplasta a la hormiga humana de Job hasta el Dios-colega que se fuma un peta en Central Park de Jesucristo Superstar/Gospel o cualquier visión *cool* del Jesús que ya no es el Jesús del siglo de oro que testifica en los juicios de honor, sino un tipo en sandalias. Esta evolución pasa por un pensamiento medieval que influye y se contamina lo judío-cristiano-musulmán.
+
+El Medievo Mediterráneo será islámico, y no importa si en ese contexto tú eres judío, cristiano o musulmán. No importa si eres judío de Córdoba llamado Maimónides. Serás un gran médico de esa civilización islámica y escribirás en árabe, porque será el idioma oficial de la tierra en que has nacido, Córdoba. Son árabes (por cultura árabe).
+
+### Fertilización islámica del Renacimiento europeo
+
+- Al Ándalus como primer renacimiento europeo.
+
+### *[Nahda](https://es.wikipedia.org/wiki/Al-Nahda)* y Reforma: del colonialismo al autoctonismo
+
+Gran salto al islam contemporáneo.
+
+A parti de 1798, con la invasión napoleónica de egipto, hay un nuevo contacto del mundo islámico, de esa cultura que se había quedado dormida en el XV (no porque tuviera nada malo, sino porque Europa se estaba comiendo el mundo). A partir de ese nuevo contacto Europa-Islam, se fertiliza la cultura islámica y surge el Islam contemporáneo de la mano del colonialismo. Importancia de distinguir bien lo musulmán de lo islámico en esta época.
+
+### Reelaboración identitaria del Mediterráneo
+
+Como lo que hoy por hoy podemos entender como el *magma* islámico. Esa ideologización política de la religión: el fundamentalismo y su exageración política en lo militar, el *yihadismo*.
+
+Las nuevas identidades colectivas (el cáncer la modernidad). En la identidad vertical parece que tengo que heredar una religión, un género, una raza... Tendré que heredar lo que sea heredable genéticamente, pero lo que forme parte del relato debemos elaborarlo nosotr@s.
+
+# Narración y realidad
+
+**(O de Mondrian a Pollock)**
+
+Fernando Broncano, catedrático de Filosofía de la UGR, plantea que la cultura es la forma en que una generación se clona a sí misma. La forma en que yo le cuento a mis hijos, les cuento a mis amigos la visión del mundo. De la misma manera, cuando a mis hijos les toque hablar con los suyos, reelaborarán, copiando, cercenando, dándole la vuelta, a la historia anterior.
+
+Lo que un niño de Kiev recibe hoy día sobre quién es no tiene nada que ver con lo que su abuelo, niño en la época de Stalin, podía estar recibiendo sobre quién era y lo que representaba en el mundo.
+
+Las narraciones cambian generacionalmente.
+
+El efecto pendular de la historia funciona en la medida en que muchas veces yo no quiero ser algo en concreto, sino lo contrario a lo que eran mi padre, mi madre, mi maestra...
+
+En materia musulmana (religión) e islámica (civilización), lo que no es tradición es plagio, que decía Eugenio d'Ors(?).
+
+Es preocupante pensar que hay zonas del mundo que son mucho más tradicionales que otras. "Lo que no es tradición es plagio" tiene una segunda acuñación, "Lo que no es tradición es revolución". EGF no cree que haya que seguir una tradición viva porque sino estás copiando otra cosa, pero sí que ve cierto sentido en la idea del plagio como artificio, como creación artifactual de una naturaleza nueva. Se refiere al caso concreto del islam3:
+
+El **velo**, las **barbas**, la **obsesión por la religión**, son una revolución islámica contemporánea, no una tradición musulmana. No hay una razón religiosa de unos pueblos que son más tradicionales.
+
+Cuando EGF vivía en Egipto, salían con egipcias, irakíes, argelinas, marroquíes y no había ese desfase que hay ahora de planetas diferentes entre musulmanes y occidentales: sus amigas no tenían velo, sus amigos no tenían barba, se pillaban los pedos más grandes del mundo con el peor whisky del mundo y no iban de salvadores de la espiritualidad mundial como hace ahora el islam. El islam contemporáneo tiene el verdadero problema que tenía la España de los años 50, de considerarse reserva espiritual del mundo.
+
+Para nosotros debe ser un problema a analizar, no a solucionar. Si la niña egipcia de hoy lleva un velo, su madre no lo llevaba, por tanto eso no es tradición. Sería tradición si hiciese lo mismo que hacía mamá, no si hace lo contrario. Por tanto, la historia no es una secuencia de compartimentos estancos por los que los musulmanes han actuado así siempre y por eso son así, los cristianos han actuado así siempre y por eso son asá.
+
+Todo esto, siguiendo a Broncano, es una narración generacional.
+
+De ahí Mondrian.
+
+Mondrian entiende la pintura en términos de compartimentos estancos. Su gran característica es el uso de un color, unos colores determinados, con una ordenación concreta.
+
+![alt text](image.png)
+
+Los colores siguen un orden mental. A lo largo de nuestra formación, se nos ha explicado que las religiones funcionan como identidades inamovibles a lo largo de la historia, al estilo de un cuadro de Mondrian.
+
+timestamp: 01:03:54
+
+class: [2](https://campusvirtual.upo.es/webapps/collab-ultra/tool/collabultra?course_id=_59658_1&mode=view)
+
