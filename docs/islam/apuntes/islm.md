@@ -551,3 +551,115 @@ timestamp: 01:03:54
 
 class: [2](https://campusvirtual.upo.es/webapps/collab-ultra/tool/collabultra?course_id=_59658_1&mode=view)
 
+Sin embargo, la historia es Jackson Pollock: la misma historia, reordenada de diferente manera. La historia se produce de un modo desordenado, nuestra vida es un puro desorden, una adaptación. En términos físicos, el universo avanza hacia la entropía, nunca hacia el orden. El orden, la linealidad, la establece el autor, la autora, cuando decide poner una cosa detrás de la otra.
+
+Napoleón no era imbécil por acudir a Waterloo. No sabe que Wellington va a ganar esa batalla. El error sólo lo sabemos después.
+
+Es muy fácil describir el clima de la Península Ibérica y la climatología de ayer; lo difícil es el mañana.
+
+Es muy fácil decir "qué mal ha jugado este equipo" cuando sabemos que ha perdido. Lo difícil es decir "me parece a mí que estos tíos van a perder" cuando saltan al terreno de juego.
+
+> En la lotería de Babilonia, un relato de Borges, a quien le tocaba la bola negra lo mataban.<br> Esta es la verdadera vida, la verdadera historia.
+
+Nosotros no tenemos ni idea de quién era Jesús, Moisés, Mahoma, Abrahám. Tenemos constancia de otras fuentes apologéticas que nos indican que probablemente sí, pero nada que ver con las biografías que se hacen de ellos. Que un tipo con una espada llamado *El Nazoreo* sea el salvador de la humanidad y ponga siempre la otra mejilla, eso es una narración retrospectiva.
+
+Hay que entender la historia al estilo de Pollock y entender que todo el mito fundacional del islam debe ser deconstruido.
+
+> *Llegó un momento en que tocó fondo la soberbia interpretativa del mundo, la soberbia colonialista de la modernidad. Entonces hubo que dar marcha atrás y relativizar la Historia*.
+
+![l'andalousie au temps des maures](image-1.png)
+
+Hay que entender la historia como que estos tipos que están cabalgando en el desierto probablemente lo hacían en nombre de Roma, de Persia... podían ser judíos, ateos... pero a nosotros se nos presenta al estilo Mondrian:
+
+- Si llevan fusiles son musulmanes.
+- Si están en la sinagoga leyendo son judíos
+- Si están sonriendo, vendiendo biblias son cristianos.
+
+La estupidez con que se nos ha enseñado la Historia de las Religiones debe ser contrarrestada con un poquito de sentido común.
+
+---
+
+***Religion after Religion***
+
+Vd. Stephen Wasserstrom
+
+Un grupo de personas que hicieron del estudio de la religión su propia religión.
+
+Entre nosotros hay mucho místico, mucho creyente o criptocreyente o todo lo contrario, mucho denostador de lo religioso.
+
+El exceso de luz en determinados períodos históricos, el enfocarnos exclusivamente en lo nuestro, el "yo sé mucho de islam pero no tengo que estudiar nada de judaísmo y cristianismo", lo que provocan es un escurecimiento de todo lo que hay alrededor.
+
+Cuando en un teatro se proyecta una luz cenital, escuereces el teatro por completo.
+
+Si quieres comprender todo lo que está ocurriendo, enciende todas las luces. La hiperespecialización provoca que no entendamos en absoluto cómo se produjo lo que estás queriendo iluminar. 
+
+Esto tiene una repercusión fundamental en la forma en que el mundo occidental contempla, describe la Edad Media. La EM, que es la que está asociada al auge del islam, es oscura. La gente tiene los dientes podridos, no se bañan, están siempre en el baño y hace frío. Pero en el Renacimiento hay color, la gente huele bien, llevan etiquetas de "pintor", "astrónomo", "polifacético". Todo el mundo aplaude al paso de Leonardo da Vinci.
+
+Esta estupidez interpretativa, esta narración permanentemente retrospectiva de cómo nos gustan más unas etapas de la Historia que otras, nos hace enfocar tanto unas etapas que perdemos la visión y oscurecemos los alrededores.
+
+No se puede entender el Renacimiento sin la Edad Media; es el florecimiento de la Edad Media, pero no porque lo anterior fuera tiempo de barro, sino porque de lo anterior proviene lo posterior.
+
+El mundo europeo configuró una Edad media oscura a la medida del enfrentamiento entre religiones y de la tontería del enfrentamiento de cruzados porque había una alienación en el MT que era el islam
+
+Se configuró el Renacimiento a la medida de no mirar el resto del mundo, pero es mentira: **no hay Renacimiento sin islam**.
+
+# Habitar la historia
+
+La historia de España no es la historia de los españoles; la historia de Marruecos no es la historia de los marroquíes. La historia de España es lo que ocurre en un territorio llamado España, antes llamado Al-Ándalus, antes Hispania...
+
+Habitar la hsitoria es aceptar que lo que hoy entendemos por cultura es heredera de los capítulos anteriores, no saltarte unos cuantos. La historia del Meidterráneo está hecha **contra** la historia del islam, y la historia del islam es parte de esa historia que estamos permanentemente sin habitar.
+
+**Cuatro ejemplos** de lo que implica no habitar una historia, cuatro países en los que se han vivido muchas oleadas distintas de historia, muchas improntas distintas en lo religioso, cultural, lingüístico y hoy no se habitan, se tienen como habitaciones vacías.
+
+[Américo Castro](https://es.wikipedia.org/wiki/Am%C3%A9rico_Castro) decía que si no habitas tu Historia, ésta será ocupada. Si una parte de nuestra historia no está intervenida por una naturalidad secuencial del tiempo... si no interpretamos la historia con la frialdad lógica de que una cosa proviene de lo anterior y provocó lo siguiente, entonces no estamos haciendo historia, estamos haciendo política. En España está todo politizado, la gente cree que su esencia de españoles proviene de cuatro tipos en Asturias que de pronto insuflaron una verdad inamovible al resto, cuando no hay una secuencia histórica que explique que nada se produjese en Asturias en el año 700.
+
+> Cuando la España visigoda trataba de centralizar un poder en torno a una corona concreta, sin tener el control completo de la Península (puesto que Galicia se escapaba al control visigodo y el Levante también, porque estaba controlado por Bizancio); cuando en torno al 700 los reyes visigodos intentan centralizar el poco poder que tienen en la Península Ibérica... toda la zona del norte, Euskadi, Cantabria, Asturias: ni estaba plenamente cristianizada ni estaba plenamente latinizada.<br>O sea, ¿que la esencia nacional-católica romana, latina de España, proviene del único rincón de la P. Ibérica que no fue plenamente latinizado ni romanizado ni cristianizado?<br>Pues esto es lo que dicen los libros de Historia. Pero son libros que provienen de una época en que en España se produjo lo que Jaume Claret, un autor que hizo su tesis sobre la España cultural de Franco, llama el ***atroz desmoche***: la forma de desmochar un árbol, podarlo hasta que no puedas ver nada en él, no puedas interpretarlo. La Universidad española se machacó durante 40/50 años. No había una posibilidad de entender que España, en tanto que Estado, es la suma de unos Estados previos. Que Al-Ándalus forma parte de esa misma historia igual que lo había formado Hispania. Que el Reino de Sevilla, el R. de Granada, el de Aragón, el de Navarra, constituirían posteriormente una España igual que diferentes regiones de Italia constituirían una Italia unificada; pero que no es una España reunificada, sino unificada, porque nunca hubo unidad previa. El problema de la historia de españa es que se interpreta que hubo una unidad previa que después fue deslab¡vazada.
+
+### **Egipto**
+
+![papa shenouda](image-2.png)
+
+El Papa **Shenouda III de Alejandría** era la cabeza visible de la Iglesia Copta de egipto. Este señor era cristiano, dentro del cristianismo egipcio también hay ortodoxos o romanos. Este señor representaba una comunidad que sólo en el Cairo tiene 8 millones de habitantes; es ddecir, el número de cristianos del Cairo duplica el número de habitantes de un país ultracatólico como Irlanda. Esto en términos cuantitativos.
+
+En términos históricos, el cristianismo nació allí. El cristianismo no nace en Belén. Nace en el momento en que hay que meter el pasaje de la huída a Egipto en el AT porque si no no se entiende la incorporación de la madre de Dios que proviene de la especificidad egipcia de entender la religiosidad, y sin madre de Dios no hay cristianismo, porque si no todo será ese judeocristianismo etéreo que podría haber sido también el islam.
+
+La especificidad cristiana proviene de Egipto.
+
+Cualquier musulmán egipcio cree que hay cristianos en su país por las cruzadas. No son conscientes de que son un país bimilenario en términos de cristianismo, porque la narración retrospectiva de su propia esencia es islámica: "esto tiene un origen exclusivamente islámico".
+
+### **India**
+
+![taj mahal](image-3.png)
+
+En el peor tiempo del siglo XX, se crean 3 estados confesionales en un par de años (47-48): India, Pakistán e Israel.
+
+El mundo de pronto se ha dado una pedrada en la cabeza y ha decidido que tenemos que interpretar estados confesionales. No han servido de nada dos guerras mundiales y acabar con los esencialismos nacionalistas, sino que tenemos que reforzarlos mediante el componente religioso que ni siquiera estaba en los anteriores nacionalismos. Es decir, el engendro de crear un estado como Israel, Pakistán o India, en lugar de ser Estados participados como habían sido siempre, nos llevan a la narración retrospectiva de "si vives en la India tienes que ser hindú, porque si no tendrías que haberte ido a Pakistán".
+
+El país con más musulmanes del mundo es Indonesia pero el segundo va a ser India. Es decir, el Estado que se desgajó en términos religiosos cuando todo el subcontinente Indio era un solo posible estado, ahora es el segundo Estado con más musulmanes.
+
+> Libro: El tren de Pakistán
+
+Y el gran elemento de turismo de la India es un templo musulman, el Taj Mahal.
+
+Pero India cree que lo islámico le es ajeno, y lo musulmán todavía más.
+
+### **Turquía**
+
+![santa sofía](image-4.png)
+
+Cuando Constantino creó Constantinopla para llevarse allí Roma
+
+La creación del Sacro Imperio Romano por parte de Carlomagno avalada por el Papa es el mayor circo de la historia de Europa (con mucho éxito después), pero el primer sorprendido cuando Carlomagno se nombra emperador en Roma es el Emperador de Roma, que vive todavía en Constantinopla, concretamente su viúda, con la cual Carlomagno pretende casarse para adquirir legitimitad, pero la legitimidad te la da la narración histórica.
+
+Los cronistas mienten a la medida de lo que le dictan los reyes, por lo tanto ya se constituirá la lógica de que Roma es occidental. Estás dejando una alienación posible a oriente. Cuadno León Bréhier, el gran historiador del bizancio clásico, al hablar de bizancio lo llama "el Estado con el Evangelio como constitución", porque la gran teocracia cristiana de toda la historia había sido Bizancio. En ese modo de entender la realidad como compartimentos estancos, cuando uno va hoy a Estambul no ve vestigio de todo ese tiempo. Desde la fundación de Constantinopla hasta la invasión turca y la creación de Estambul en 1453 han pasado 1200 y pico de años: un milenio de teología de la historia dando vueltas en un estado que se presenta abiertamente cristiano. Pues cuando uno va al museo arqueológico de Estambul, de 200 salas hay una sola para el cristianismo constantinopolitano. No se habita esa historia.
+
+### España
+
+![mezquita de córdoba](image-5.png)
+
+El cuarto país que no habita su historia es España, que ha convertido esta mezquita en una catedral.
+
+No es que una mezquita no deba ser una catedral, es que hoy ya no se llama Mezquita de Córdoba, sino Catedral de Córdoba. Y cuando hacemos la visita nocturna de estos arcos que son característicos de una mezquita particular, escuchamos en los cascos de la audioguía un audio con fondo gregoriano que dice "Está usted atravesando el período de intervención musulmana de la catedral de Córdoba". Debemos fijarnos en cómo se construye la historia, cómo se miente en el presente.
+
+En Europa, en el Mediterráneo, en Occidente, no se habita nuestra propia historia. El **islam cultural** es constitutivo de nuestra propia civilización; el **islam religión** emerge de las mismas fuentes culturales que las nuestras; las **sociedades musulmanas contemporáneas** forman parte de una modernidad que ha sido modificada por la intervención colonial y por la poscolonialidad.
+
