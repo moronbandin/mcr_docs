@@ -184,7 +184,7 @@ A través de la apologética y la denostación podemos comprender todo lo que si
 
   Como parte de la filosofía no tiene ningún problema: el fenómeno es lo que se presenta ante mí y la forma que yo tengo de abordar el conocimiento o la percepción.
 
-  Pero en el momento en que pienso que no hay un gato, sino cada gato. Que no hay un islam, sino cada islam; que mi percepción de la realidad es LA realidad. 
+  Pero en el momento en que pienso que no hay un gato, sino cada gato. Que no hay un islam, sino cada islam; que mi percepción de la realidad es LA realidad.
 
 ### ***Cultural Studies***
 
@@ -355,17 +355,17 @@ Un evangelio apócrifo es una narración """*fiable*""" históricamente sobre la
 - Un Jesús que se enfada con un amigo y lo mata o lo resucita (porque es todopoderoso).
 - El niño Jesús que no hace caso a sus padres...
 
-Toda la milagrería de la infancia de Jesús será considerada como textos con cierto valor histórico pero no incluible en el canon de la Iglesia Católica. Por tanto, 
+Toda la milagrería de la infancia de Jesús será considerada como textos con cierto valor histórico pero no incluible en el canon de la Iglesia Católica. Por tanto,
 
 > **un evangelio apócrifo es un relato sobre la vida de Jesús de cierta importancia histórica pero de nula trascendencia religiosa. Entonces, el Corán es un evangelio apócrifo**,
 
-porque incorpora elementos de la infancia/vida de Jesús que desdeñó la Iglesia; incorpora elementos de la extrema definición física de la virginidad de María, por los que el Evagelio pasa de puntillas y que el Corán analiza clarísimamente. 
+porque incorpora elementos de la infancia/vida de Jesús que desdeñó la Iglesia; incorpora elementos de la extrema definición física de la virginidad de María, por los que el Evagelio pasa de puntillas y que el Corán analiza clarísimamente.
 
 Es imposible comprender el Corán sin haber leído antes las colecciones judías, cristianas y las colecciones desdeñadas por el canon cristiano llamadas apócrifas/pseudoepigráficas, muy en concreto los textos de corrientes judeocristianas en torno a las comunidades [**ebionitas**](https://es.wikipedia.org/wiki/Ebionismo) y muy en concreto las [**elcasaítas**](https://pt.wikipedia.org/wiki/Elcasaitas), cuya literatura es conocida como la [**literatura pseudoclementina**](https://es.wikipedia.org/wiki/Pseudoclementinas) y en cuya colección/redacción está el modelo que irá siguiendo la CC.
 
 # Los tres islames
 
-## El islam: sistema religioso
+## El islam: sistema religioso - *musulmán*
 
 Nació como apertura del pueblo elegido, como consideración de que hay una soberbia interpretativa de determinadas comunidades (los judíos) que planteaban la existencia de un pueblo elegido y un pacto con Dios.
 
@@ -373,13 +373,13 @@ La apertura de los muros que ya había iniciado el cristianismo, esa universaliz
 
 Por tanto, en la diatriba iconoclasta de Bizancio (cristiana en tanto que rechaza las imágenes porque no quiere parecerse demasiado a la imaginería pagana) en la Antigüedad Tardía, los judíos hacen suyo ese rechazo iconoclasta. Después se le dará la vuelta y se aceptará con toda su panoplia folclórica en todo el Mediterráneo (la imaginería del cristianismo), en ese rechazo del carácter pagano de las imágenes está también el rechazo a la sustancia pagana de la divinidad, sustancia pagana que se nos ha mostrado en toda la mitología griega como `dioses teniendo hijos`. Y en Oriente Medio, el **anacoretismo**, que no aceptó Nicea, que son conscientes de los pecados de Calcedonia del 451... en esos avances hacia la paganización de una fe monoteísta bajo la forma de dioses teniendo hijos, en ese rechazo periférico hacia las imágenes y la consideración de la paternidad de Dios está la origen de este primer islam con minúscula.
 
-## El Islam: civilización
+## El Islam: civilización - *islámico*
+
+> El Islam como sistema cultural, equivalente a "Occidente". Pertenecer a la "casa del Islam", la "cultura islámica", era poder viajar de Córdoba a India hablando simplemente árabe. A partir del s. XX, sin embargo, con el fin de los colonialismos, se genera una reacción al modelo occidental de modernidad y se disgrega esa idea de una única cultura en algunos países que algunos son árabes, otros musulmanes...
 
 Igual que Cristiandad se escribe con mayúscula. Hereda al Imperio Romano y al Imperio Persa porque son las dos grandes civilizaciones de guardia en la Antigüedad Tardía, pero no porque las haya derrotado. Es más, es importante recalcar que el Islam no crece porque se expanda por invasión o por conquista.
 
 No sabemos nada sobre los orígenes del Islam en materia civilizadora más que a partir de que puede hablar por sí mismo en torno al 800 en Bagdad, fundada a medio camino entre el Imperio Bizantino y el Persa.
-
-[00:21:43]
 
 Esclarecemos que el islam no se expande por conquista por evitar aplicar en historia un criterio religioso-teológico. Un teologuema es, a falta de una prueba científica, elevar una creencia al rango de demostración científica. No hay absolutamente ninguna crónica árabe de los años 600-700 que pueda demostrar una conquista determinada.
 
@@ -397,7 +397,6 @@ Este ya no es un islam internacional, es nacionalizado, está asociado a cada un
 
 Separaremos la religión-islam (musulmán), la civilización-Islam (islámico) y la sociedad contemporánea (global: islámica - religioso: musulmán).
 
-
 - Cuando nos refiramos a la **religión** del islam, su adjetivo será siempre lo *musulmán*.
     - *El musulmán, la musulmana, el rito musulmán.*
 - Cuando nos refiramos a la cultura, que sea islámico.
@@ -412,7 +411,7 @@ Separaremos la religión-islam (musulmán), la civilización-Islam (islámico) y
 
 Que si el primer gran anacoreta del cristianismo, Antonio, en el desierto egipcio, resulta que se mete en un eremitorio porque quiere pasar penalidades y descubrir la verdadera esencia del sacrificio en nombre de Dios, la obra de Wulff dirá que es porque ha habido conocimientos del mundo brahman de la India y ha habido una *imitatio*, una consideración atlética (físico-mental) de lo que debe ser un cristiano: precisamente porque la espiritualidad de la India hizo mella en OM por esa permanente conexión.
 
-El propio F. Wulff hace referencia a que hasta hablando de Platón tenemos un momento en su biografía que se pierde y se sitúa en ese período de su vida la posible influencia del mundo órfico. Un mundo que es evidentemente oriental, evidentemente espiritualista y evidentemente está muy ligado a la consideración de lo religioso e incluso de lo teológico del mundo de la India. Por tanto, hay que comprender OM como una caja de resonancia, no como un desierto de aislamiento. 
+El propio F. Wulff hace referencia a que hasta hablando de Platón tenemos un momento en su biografía que se pierde y se sitúa en ese período de su vida la posible influencia del mundo órfico. Un mundo que es evidentemente oriental, evidentemente espiritualista y evidentemente está muy ligado a la consideración de lo religioso e incluso de lo teológico del mundo de la India. Por tanto, hay que comprender OM como una caja de resonancia, no como un desierto de aislamiento.
 
 > El islam no surge en el desierto, surge en El Corte Inglés, en la plaza del pueblo, en el ágora. Porque está rodeado de témenos de diferentes religiones. Es el mínimo común múltiplo de la espiritualidad, de la forma de entender la creación del mundo, de la ética constructiva de la conducta de un ser humano que si es bueno va al cielo y si es malo va al infierno. Es decir, las estructuras que hereda de la interpretación religiosa del mundo provienen de una espiritualidad oriental (India) y de unas consideraciones judeocristianas ya aludidas.
 
@@ -437,7 +436,7 @@ Decía [Jacob Taubes](https://es.wikipedia.org/wiki/Jacob_Taubes), un gran inter
 
 Estamos anclados en una interpretación narrativa, secuencial, de algo que proviene de una creación (por mucho que no sepamos explicar cómo fue) y que está abocado hacia un apocalipsis. Y tenemos el mismo sentido de culpa de esa teología de la historia: si antes era el pecado, ahora es el no-reciclar, emitir partículas nocivas tanto al mar como al espacio.
 
-La lógica del ser humano en su tiempo es plantear una teología de la historia; plantear que el ser humano tiene que cargar con un pecado original porque se está alejando de lo que era el motivo prístino de la creación del mundo. 
+La lógica del ser humano en su tiempo es plantear una teología de la historia; plantear que el ser humano tiene que cargar con un pecado original porque se está alejando de lo que era el motivo prístino de la creación del mundo.
 
 ### Veneración por el texto y texto venerado
 
@@ -547,10 +546,6 @@ Mondrian entiende la pintura en términos de compartimentos estancos. Su gran ca
 
 Los colores siguen un orden mental. A lo largo de nuestra formación, se nos ha explicado que las religiones funcionan como identidades inamovibles a lo largo de la historia, al estilo de un cuadro de Mondrian.
 
-timestamp: 01:03:54
-
-class: [2](https://campusvirtual.upo.es/webapps/collab-ultra/tool/collabultra?course_id=_59658_1&mode=view)
-
 Sin embargo, la historia es Jackson Pollock: la misma historia, reordenada de diferente manera. La historia se produce de un modo desordenado, nuestra vida es un puro desorden, una adaptación. En términos físicos, el universo avanza hacia la entropía, nunca hacia el orden. El orden, la linealidad, la establece el autor, la autora, cuando decide poner una cosa detrás de la otra.
 
 Napoleón no era imbécil por acudir a Waterloo. No sabe que Wellington va a ganar esa batalla. El error sólo lo sabemos después.
@@ -613,7 +608,26 @@ Habitar la hsitoria es aceptar que lo que hoy entendemos por cultura es heredera
 
 [Américo Castro](https://es.wikipedia.org/wiki/Am%C3%A9rico_Castro) decía que si no habitas tu Historia, ésta será ocupada. Si una parte de nuestra historia no está intervenida por una naturalidad secuencial del tiempo... si no interpretamos la historia con la frialdad lógica de que una cosa proviene de lo anterior y provocó lo siguiente, entonces no estamos haciendo historia, estamos haciendo política. En España está todo politizado, la gente cree que su esencia de españoles proviene de cuatro tipos en Asturias que de pronto insuflaron una verdad inamovible al resto, cuando no hay una secuencia histórica que explique que nada se produjese en Asturias en el año 700.
 
-> Cuando la España visigoda trataba de centralizar un poder en torno a una corona concreta, sin tener el control completo de la Península (puesto que Galicia se escapaba al control visigodo y el Levante también, porque estaba controlado por Bizancio); cuando en torno al 700 los reyes visigodos intentan centralizar el poco poder que tienen en la Península Ibérica... toda la zona del norte, Euskadi, Cantabria, Asturias: ni estaba plenamente cristianizada ni estaba plenamente latinizada.<br>O sea, ¿que la esencia nacional-católica romana, latina de España, proviene del único rincón de la P. Ibérica que no fue plenamente latinizado ni romanizado ni cristianizado?<br>Pues esto es lo que dicen los libros de Historia. Pero son libros que provienen de una época en que en España se produjo lo que Jaume Claret, un autor que hizo su tesis sobre la España cultural de Franco, llama el ***atroz desmoche***: la forma de desmochar un árbol, podarlo hasta que no puedas ver nada en él, no puedas interpretarlo. La Universidad española se machacó durante 40/50 años. No había una posibilidad de entender que España, en tanto que Estado, es la suma de unos Estados previos. Que Al-Ándalus forma parte de esa misma historia igual que lo había formado Hispania. Que el Reino de Sevilla, el R. de Granada, el de Aragón, el de Navarra, constituirían posteriormente una España igual que diferentes regiones de Italia constituirían una Italia unificada; pero que no es una España reunificada, sino unificada, porque nunca hubo unidad previa. El problema de la historia de españa es que se interpreta que hubo una unidad previa que después fue deslab¡vazada.
+Cuando la España visigoda trataba de centralizar un poder en torno a una corona concreta, sin tener el control completo de la Península (puesto que Galicia se escapaba al control visigodo y el Levante también, porque estaba controlado por Bizancio);
+
+- En torno al 700, los reyes visigodos intentan centralizar el poco poder que tienen en la Península Ibérica.
+- Toda la zona del norte: Euskadi, Cantabria, Asturias, ni estaba plenamente cristianizada ni estaba plenamente latinizada.
+  - Los mismos problemas que habían tenido los romanos son los que tuvieron después los visigodos.
+
+O sea, ¿la esencia nacional-católica romana, latina de España, proviene del único rincón de la Península Ibérica que no fue plenamente latinizado ni romanizado ni cristianizado?
+
+Pues esto es lo que dicen los libros de Historia. Pero son libros que provienen de una época en que en España se produjo lo que Jaume Claret, un autor que hizo su tesis sobre la España cultural de Franco, llama el ***atroz desmoche***:
+
+- La forma de desmochar un árbol, podarlo hasta que no puedas ver nada en él, no puedas interpretarlo.
+- La Universidad española se machacó durante 40/50 años.
+- No había una posibilidad de entender que España, en tanto que Estado, es la suma de unos Estados previos.
+  - Que Al-Ándalus forma parte de esa misma historia igual que lo había formado Hispania.
+  - Que el Reino de Sevilla, el Reino de Granada, el Reino de Aragón, el Reino de Navarra, constituirían posteriormente una España igual que diferentes regiones de Italia constituirían una Italia unificada.
+    - Pero no es una España **re**unificada, sino unificada, porque nunca hubo unidad previa.
+
+El problema de la interpretación de la historia de España es que se asume que hubo una unidad previa que después fue deslavazada.
+
+## Cuatro países que caen en la misma tontería interpretativa
 
 ### **Egipto**
 
@@ -631,7 +645,7 @@ Cualquier musulmán egipcio cree que hay cristianos en su país por las cruzadas
 
 ![taj mahal](image-3.png)
 
-En el peor tiempo del siglo XX, se crean 3 estados confesionales en un par de años (47-48): India, Pakistán e Israel.
+En el peor tiempo del siglo XX, se crean 3 estados confesionales en un par de años (47-48): **India**, **Pakistán** e **Israel**.
 
 El mundo de pronto se ha dado una pedrada en la cabeza y ha decidido que tenemos que interpretar estados confesionales. No han servido de nada dos guerras mundiales y acabar con los esencialismos nacionalistas, sino que tenemos que reforzarlos mediante el componente religioso que ni siquiera estaba en los anteriores nacionalismos. Es decir, el engendro de crear un estado como Israel, Pakistán o India, en lugar de ser Estados participados como habían sido siempre, nos llevan a la narración retrospectiva de "si vives en la India tienes que ser hindú, porque si no tendrías que haberte ido a Pakistán".
 
@@ -663,3 +677,70 @@ No es que una mezquita no deba ser una catedral, es que hoy ya no se llama Mezqu
 
 En Europa, en el Mediterráneo, en Occidente, no se habita nuestra propia historia. El **islam cultural** es constitutivo de nuestra propia civilización; el **islam religión** emerge de las mismas fuentes culturales que las nuestras; las **sociedades musulmanas contemporáneas** forman parte de una modernidad que ha sido modificada por la intervención colonial y por la poscolonialidad.
 
+---
+
+El Corán tal y como lo conocemos ahora se puede datar en 1924, que es cuando se hizo la recensión que cualquier persona maneja para consultar o traducir. Se llama ["Colección del Rey Fu'at I"](https://es.wikipedia.org/wiki/Cor%C3%A1n_Amiri) y se hizo tras la Primera Guerra Mundial.
+
+A lo largo de la E. M. había una colección en el mundo sunní, otra en el chií, que se corresponde prácticamente con el texto que conoceríamos antes del Rey Fu'at.
+
+El gran mito es que Hafsa, una mujer del profeta, conservó todos los escritos y los transmitió.
+
+Frente a la teoría de la transmisión está la de la evolución: la codificación de un canon. Para el islam (religión) hay un dogma: la inimitabilidad del Corán y la inmobilidad del texto coránico desde la redacción.
+
+---
+
+## Intersecciones
+
+Las ideas y las formas viajan, pero no necesariamente juntas.
+
+Cómo en España podemos estar hablando inglés sin tener que haber sufrido una invasión de norteamericanos... Aunque si tenemos bases militares de los Estados Unidos en nuestro país, dentro de 300 años alguien podría decir "creo que fueron invadidos por los americanos".
+
+Una realidad, unos materiales que se presentan como pruebas historiográficas, muchas veces están sometidas a varias posibilidades de interpretación.
+
+Intersecciones para complejizar un poco más la realidad:
+
+El islam no es una religión aparte del judaísmo y del cristianismo, no es un pueblo aparte que viene del desierto, ni una civilización aparte que vino y nos invadió (y, por tanto, los echamos).
+
+Muchos textos llevan la contraria a esta idea: una serie de personas no soportan las nuevas interpretaciones y otra gente no acepta el paradigma mayoritario.
+
+Ideas para abundar en el territorio intermedio del túnel de ideas de ese Próximo Oriente de decantación lenta de una religión nueva a partir de materiales previos conocidos.
+
+### **L-EVANĠELJU SKONT SAN ĠWANN**
+
+Escrito en árabe, pero sus hablantes dicen que hablan maltés (árabe escrito en caracteres latinos).
+
+![L-EVANĠELJU SKONT SAN ĠWANN](image-7.png)
+
+Es imposible poner una muralla entre determinadas realidades que están naciendo, pero después sí se pondrán murallas. Por qué un maltés no quiere decir que hable árabe? Porque en su mente, hablar árabe es ser musulmán.
+
+El Evangelio según San Juan, en la muy católica, apostólica y romana Malta, escriben dios como "Allah". Porque no es el dios de los musulmanes, sino Dios en árabe.
+
+En una lengua oficial de la UE, a dios se le dice Allah.
+
+Segundo ejemplo de porosidad, de tierra intermedia:
+
+### Kfar-Kama
+
+![Kfar - Kama](image-8.png)
+
+Kfar-Kama es una aldea israelí, del norte, colindante practicamente con el Líbano. Son inmensamente israelíes y pro-israelíes (son un destacamento militar fronterizo que son los primeros que sufren las embestidas de la Hizbulá, el ejército paramilitar libanés). Son todos musulmanes. Es decir, se puede ser hebreo, ser de expresión rusa (circasiana), ser musulmán y pertenecer a israel.
+
+### Edificios en Irán
+
+- **Monasterio de San Judas Tadeo**
+
+![Monasterio de San Judas Tadeo, Irán](site_1262_0012.jpg)
+
+- **Catedral de San José, Teherán**
+ 
+![Catedral de San José, Teherán](image-9.png)
+
+En Irán hubo miles, millones de cristianos y judíos hasta la revolución islámica. Pero ahora sigue habiendo cristianos, de hecho son caldeos, de unos ritos muy antiguos. Tienen un gran lobby económico en Teherán, universidades privadas, colegios, la universidad principal tiene una escuela de música tan magnífica que la orquesta nacional de Irán suelen ser cristianos...
+
+- **Dr. Sapir Hospital and Charity Center**: el mayor hospital judío de Oriente Medio.
+
+![Foto del rabino de la sinagoga del hospital](<Captura de pantalla de 2024-06-05 12-14-23.png>)
+
+Era un millonario judío. Si en Israel hay 6 o 7 millones de habitantes, muchos de ellos judíos (pero no todos: hay cristianos, musulmanes...). Antes de 1978, de la revolución que puso en el poder a Homeini, había 7 millones de judíos en Irán (ahora quedan unos 60/70 mil).
+
+Clase 3. Min 00.24.28
