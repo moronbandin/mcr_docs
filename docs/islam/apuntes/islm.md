@@ -741,6 +741,47 @@ En Irán hubo miles, millones de cristianos y judíos hasta la revolución islá
 
 ![Foto del rabino de la sinagoga del hospital](<Captura de pantalla de 2024-06-05 12-14-23.png>)
 
-Era un millonario judío. Si en Israel hay 6 o 7 millones de habitantes, muchos de ellos judíos (pero no todos: hay cristianos, musulmanes...). Antes de 1978, de la revolución que puso en el poder a Homeini, había 7 millones de judíos en Irán (ahora quedan unos 60/70 mil).
+Era un millonario judío. Si en Israel hay 6 o 7 millones de habitantes, muchos de ellos judíos (pero no todos: hay cristianos, musulmanes...). Antes de 1978, de la revolución que puso en el poder a Homeini, había 7 millones de judíos en Irán (ahora quedan unos 60/70 mil) y cada vez menos porque el mundo se va polarizando.
 
-Clase 3. Min 00.24.28
+> Pero la polarización es un motor que funciona cuando se calienta, no en arranque. Todas las cosas que se producen empiezan a la sombra, en la humedad, en los barrizales, en los territorios limítrofes entre las ideas. 
+
+
+### Mezquita de María, Chicago
+
+![Mezquita Maryam](image-10.png)
+
+Este templo, si tuviera cuatro alminares, parecería Santa Sofía. Santa Sofía tiene esa forma porque si le quitábamos los alminares nos quedaba una cúpula abierta bizantina.
+
+Este templo fue un templo protestante que copiaba las basílicas de Constantinopla. Ahora fue comprado por una comunidad y hoy es una mezquita. Hay cerca de 1 millón de afroamericanos, de musulmanes de la *Nation of Islam*, liderada actualmente por [Louis Farrakhan](https://pt.wikipedia.org/wiki/Louis_Farrakhan) pero antiguamente por [Malcolm X](https://pt.wikipedia.org/wiki/Malcolm_X). Son musulmanes que rezan en árabe pero no hablan árabe. Son negros, practican la insumisión fiscal y dan mucho follón como buenos norteamericanos que son. La mayor parte de ellos no votan porque en EEUU se encargan perfectamente de detener a cualquier persona que no tenga el color de piel propio de los descendientes de holandeses. Y si estás en la cárcel no votas. El tercer mundo existe, y muchas veces es dentro de las cárceles del primero.
+
+### Opus Dei
+
+![José María Escrivá](image-11.png)
+
+Si alguien ha estado en el Opus alguna vez, esto es una estampita de José María Escrivá de Balaguer, fundador del Opus Dei. La estampita dse ladieron en Beirut. Él fue miembro hasta los 16 años.
+
+> "Me salí, me quedó una buena cultura religiosa que yo creo que es fundamental, no me quedó el orden de vida que tenía hasta esa época, me pareció muy bien la experiencia y fuera. Cada uno que vaya siguiendo su propia Edad Media".
+
+Pero en la estampita pone "Opus Dei" en árabe. Y los del opus no son musulmanes.
+
+¡Bienvenidos al campo de la porosidad!
+
+---
+
+La angustia de Abraham
+
+![alt text](image-12.png)
+
+La explicación que hace Sartre de la angustia de Abraham, término acuñado por el danés Kirkegart, que habla de un ser humano excepcional, el profeta, que endereza a los pueblos.
+
+En el libro, EGF hace precisamente lo contrario: una historia de las religiones sin profetas, porque las hagiografías de cada una de las religiones se escriben siglos después a lo que pudieran ser los inicios de cada religión.
+
+Supermán tirado y cansado de que nadie se salve a sí mismo le sirve de ejemplo: toda religión en su narración canónica, todo lo que Eliade llamaba "la antología arcaica", todo ese tiempo magno fundacional de los orígenes de las religiones son narraciones que se especifican mucho después, junto con la biografía del fundador. Por tanto, esos mitos dorados son mitos.
+
+> Orientalismo hace aguas por bastantes partes porque habla a un público norteamericano. En España o Italia no tiene tanto sentido porque tenemos a Oriente dentro. En Grecia tampoco... Le faltó un poco de viajar por el mundo para ver que hay diferentes tipos de orientalismos.
+
+Said tiene uno que se llama "Begginings", sobre los comienzos. Él plantea una dicotomía fundacional: una cosa es el origen: que es mítico. Otra el comienzo: datable.
+
+El origen del islam es muy sencillo: un profeta entorno al 622 recibió del ángel Gabriuel una revelación en un desierto
+
+[3a](https://campusvirtual.upo.es/ultra/courses/_59658_1/cl/outline) 00:30:44
