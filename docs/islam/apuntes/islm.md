@@ -766,9 +766,7 @@ Pero en la estampita pone "Opus Dei" en árabe. Y los del opus no son musulmanes
 
 ¡Bienvenidos al campo de la porosidad!
 
----
-
-La angustia de Abraham
+## La angustia de Abraham
 
 ![alt text](image-12.png)
 
@@ -780,8 +778,49 @@ Supermán tirado y cansado de que nadie se salve a sí mismo le sirve de ejemplo
 
 > Orientalismo hace aguas por bastantes partes porque habla a un público norteamericano. En España o Italia no tiene tanto sentido porque tenemos a Oriente dentro. En Grecia tampoco... Le faltó un poco de viajar por el mundo para ver que hay diferentes tipos de orientalismos.
 
-Said tiene uno que se llama "Begginings", sobre los comienzos. Él plantea una dicotomía fundacional: una cosa es el origen: que es mítico. Otra el comienzo: datable.
+Said tiene uno que se llama "Begginings", sobre los comienzos. **Él plantea una dicotomía fundacional sobre qué debemos mantener nosotros en los orígenes del Islam**: 
 
-El origen del islam es muy sencillo: un profeta entorno al 622 recibió del ángel Gabriuel una revelación en un desierto
+> Una cosa es el origen, que es mítico. 
+> 
+> Y otra es el comienzo, que es perfectamente datable.
 
-[3a](https://campusvirtual.upo.es/ultra/courses/_59658_1/cl/outline) 00:30:44
+El origen del islam es muy sencillo: 
+
+Un profeta entorno al 622 recibió del ángel Gabriel una revelación en un desierto de Arabia Saudí. Tuvo tanto éxito su predicación que consiguió conquistar la ciudad en que él había nacido y en que todos eran paganos y tuvo tanto éxito el empuje comercial y caravanero de esa ciudad que conquistaron en su tiempo de vida toda Arabia y parte de Oriente Medio. Cuando él murió, con sus tres principales seguidores, llegaron desde Poitiers en los Pirineos hasta el Ganges en la India.
+
+Estos son los orígenes del islam, una sarta de estupideces, improbables no por falta de probabilidad, sino porque nunca han sido probadas.
+
+En el 711, que las crónicas árabes de la Península Ibérica dicen que entraron los musulmanes en la Península. Y en el 711, que dicen que esas mismas tropas entraron en la India... Cualquiera que coja las fuentes españolas y las indias y las contraste, ve que tenemos un pequeño problema de bilocalización. Eso o que las tropas llegaron al estilo de los ejércitos de clones de Star Wars (altamente improbable porque no hay ninguna crónica que hable de ello hasta el año 1000).
+
+En el año 1000 se configura la alienación del islam y se escribe toda la biografía del profeta, toda la historia de su propia religión convertida en imperio a beneficio de un cruzadismo que llevará en OM a la dicotomía entre ser oriental u occidental. Dicotomía que se había producido ligeramente en el IR con la división del Imperio entre Oriental y Occidental; que el islam se hizo fuerte en la parte Oriental y se expandió hacia la Occidental por el sur del Mediterráneo pero no necesariamente con tropas, no necesariamente con imposición, sino igual que se habían impuesto las otras religiones.
+
+---
+
+- Partiendo de las religiones comparadas, analizar las fuentes culturales del texto coránico y el *Early Islam* (islam naciente),
+- así como la llamada *Historiología* (historiografía puesta en movimiento: un texto por ser antiguo no dice la verdad, sobre todo si se separa de los hechos 300 años) medieval (especialmente lo islámico en Europa a través de Alándalus)
+- para plantear el presente del mundo islámico.
+
+> Los hadices no es que sean una invención (creación), es que se ponen por escrito entorno al año 800, que es cuando la lengua árabe tiene capacidad gramatical para ofrecernos crónicas de invasión o de textos religiosos hasta entre el 800-850 porque no existe una codificación culta de la lengua hasta entonces.
+
+Cualquier musulmán de hoy día, representante del Tercer Islam (las sociedades musulmanas contemporáneas), para ellos es fundamental entender que provienen de una alteridad histórica. El propio discurso creativo de los orígenes del islam es compartido por los enemigos del islam y los apologetas del islam: **estos tipos llegaron / nosotros llegamos invadiendo medio mundo**.
+
+El problema de esto: si en el inicio de tu religión, la violencia es la herramienta de expansión, ¿cómo le vas a decir que no sea la nueva? Hay muchas cosas que se explican hoy día en ese toma y daca de oriente-occidente y que en una buena disposición narrativa de la verdadera historia del islam acabaría con todo fundamento teórico del fundamentalismo islámico.
+
+---
+
+Interesan dos posibilidades de entender el mundo en general, el intelectual en concreto y el islam muy en concreto:
+
+## El método historiológico
+
+- **La historiología**: no se emplea mucho (se emplea más filosofía de la historia), pero no es cómo funciona la historia, sino para qué nos sirve lo que estamos estudiando.
+
+Si yo descubro que en un documento Alfonso X el Sabio está escribiendo a su aliado de Granada en el año 1250, ¿para qué me sirve esta noticia? ¿Simplemente para traducirla? O puedo decir: "Espera un momento. Alfonso X, el hijo del conquistador de Sevilla era aliado del rey de Granada? Entonces eran cristianos contra musulmanes o castellanos contra sevillanos? ¿De verdad me estás diciendo que Alfonso X utiliza por primera vez en una cancillería peninsular el papel porque todos los primitivos reinos del norte de la P.I. estaban todavía con pergamino...? ¿Quieres decir que, para él, el mundo islámico que representa Alándalus es fundamental para el desarrollo de su propio proyecto cultural?".
+
+Eso es la historiología: *levantarle las faldas a la historia*.
+
+En el libro de [Stephen Shoemaker](https://en.wikipedia.org/wiki/Stephen_J._Shoemaker) *The Death of a Prophet*
+
+![The Death of a Prophet](image-13.png)
+
+
+! Clase [1.56.09](https://eu.bbcollab.com/collab/ui/session/playback) minuto 40 más o menos
